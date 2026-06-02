@@ -1,29 +1,55 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CCGL Harvest Analytics</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
+<header>
+  <h1>CCGL Harvest Analytics</h1>
+  <p>Post-Harvest KPI Dashboard</p>
+</header>
 
-  <header>
-    <h1>CCGL Harvest Analytics</h1>
-  </header>
+<main>
 
-  <main>
+  <section class="kpi-grid">
     <div class="card">
-      <h2>Total Harvests</h2>
+      <h3>Total Harvests</h3>
       <p id="totalHarvests">0</p>
     </div>
 
     <div class="card">
-      <h2>Average Yield %</h2>
+      <h3>Total Dry Weight</h3>
+      <p id="totalDryWeight">0 lbs</p>
+    </div>
+
+    <div class="card">
+      <h3>Average Yield %</h3>
       <p id="avgYield">0%</p>
     </div>
-  </main>
 
-  <script src="script.js"></script>
-</body>
-</html>
+    <div class="card">
+      <h3>Average Waste %</h3>
+      <p id="avgWaste">0%</p>
+    </div>
+  </section>
+
+  <section class="card">
+    <input
+      type="text"
+      id="searchInput"
+      placeholder="Search strains..."
+    />
+  </section>
+
+  <section class="card">
+    <table id="harvestTable">
+      <thead>
+        <tr>
+          <th>Strain</th>
+          <th>Batch</th>
+          <th>Harvest Date</th>
+          <th>Dry Weight</th>
+          <th>Yield %</th>
+          <th>Waste %</th>
+        </tr>
+      </thead>
+      <tbody>
+      </tbody>
+    </table>
+  </section>
+
+</main>
