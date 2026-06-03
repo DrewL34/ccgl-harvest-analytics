@@ -1,0 +1,6182 @@
+{
+  "version": 1,
+  "as_of": "2026-06-03",
+  "packages": [
+    {
+      "id": "Cape White Shark 3.5g||87.5",
+      "item": "Cape White Shark 3.5g",
+      "strain": "Cape White Shark",
+      "category": "CCGL 8th",
+      "case_qty": 87.5,
+      "num_cases": 7,
+      "grams": 612.5,
+      "destination": "CCGL 8th",
+      "location": "Vault - Finished Goods",
+      "lab_status": "TestPassed",
+      "pkg_count": 7,
+      "status": "Ready to Sell",
+      "metrc_tags": "1A40A030000C9F5000004970,1A40A030000C9F5000004972,1A40A030000C9F5000004973,1A40A030000C9F5000004983,1A40A030000C9F5000004985,1A40A030000C9F5000004987,1A40A030000C9F5000004988",
+      "needs_review": false,
+      "super": "CCGL",
+      "sub": "CCGL Eighth"
+    },
+    {
+      "id": "Cape Cod Grow Labs - Pre Roll 1g - Cape White Shark||50",
+      "item": "Cape Cod Grow Labs - Pre Roll 1g - Cape White Shark",
+      "strain": "Cape White Shark",
+      "category": "Pre Rolls",
+      "case_qty": 50,
+      "num_cases": 24,
+      "grams": 1200,
+      "destination": "Pre Rolls",
+      "location": "Vault - PR",
+      "lab_status": "TestPassed",
+      "pkg_count": 24,
+      "status": "Ready to Sell",
+      "metrc_tags": "1A40A030000C60D000071293,1A40A030000C60D000071295,1A40A030000C60D000071298,1A40A030000C60D000071301,1A40A030000C60D000071314,1A40A030000C60D000071315,1A40A030000C60D000071316,1A40A030000C60D000071318,1A40A030000C60D000071320,1A40A030000C60D000071322,1A40A030000C60D000071329,1A40A030000C60D000071330,1A40A030000C60D000071331,1A40A030000C60D000071334,1A40A030000C60D000071335,1A40A030000C60D000071340,1A40A030000C60D000071345,1A40A030000C60D000071347,1A40A030000C60D000071348,1A40A030000C60D000071351,1A40A030000C60D000071355,1A40A030000C60D000071365,1A40A030000C60D000071373,1A40A030000C60D000071382",
+      "needs_review": false,
+      "super": "Pre-Roll",
+      "sub": "Pre-Roll"
+    },
+    {
+      "id": "Lemon Cherry Sherbert 3.5g||87.5",
+      "item": "Lemon Cherry Sherbert 3.5g",
+      "strain": "Lemon Cherry Sherbert",
+      "category": "CCGL 8th",
+      "case_qty": 87.5,
+      "num_cases": 2,
+      "grams": 175,
+      "destination": "CCGL 8th",
+      "location": "Vault - Finished Goods",
+      "lab_status": "TestPassed",
+      "pkg_count": 2,
+      "status": "Ready to Sell",
+      "metrc_tags": "1A40A030000C9F5000004907,1A40A030000C9F5000004810",
+      "needs_review": false,
+      "super": "CCGL",
+      "sub": "CCGL Eighth"
+    },
+    {
+      "id": "Cape Cod Grow Lab - Pre Roll 1g - Lions Breath||50",
+      "item": "Cape Cod Grow Lab - Pre Roll 1g - Lions Breath",
+      "strain": "Lions Breath",
+      "category": "Pre Rolls",
+      "case_qty": 50,
+      "num_cases": 1,
+      "grams": 50,
+      "destination": "Pre Rolls",
+      "location": "Vault - PR",
+      "lab_status": "TestPassed",
+      "pkg_count": 1,
+      "status": "Ready to Sell",
+      "metrc_tags": "1A40A030000C60D000071154",
+      "needs_review": false,
+      "super": "Pre-Roll",
+      "sub": "Pre-Roll"
+    },
+    {
+      "id": "Galactic Banana Fresh Frozen Flower||13470",
+      "item": "Galactic Banana Fresh Frozen Flower",
+      "strain": "Galactic Banana",
+      "category": "Fresh Frozen",
+      "case_qty": 13459.25,
+      "num_cases": 1,
+      "grams": 13459.25,
+      "destination": "Extraction",
+      "location": "Cure - Ext Freezer",
+      "lab_status": "SubmittedForTesting",
+      "pkg_count": 1,
+      "status": "Needs Test",
+      "metrc_tags": "1A40A030000C9F5000004807",
+      "needs_review": false,
+      "super": "Bulk",
+      "sub": "Bulk Flower"
+    },
+    {
+      "id": "Cape Cod Grow Lab - Pre Roll 1g - Blue Andeze||38",
+      "item": "Cape Cod Grow Lab - Pre Roll 1g - Blue Andeze",
+      "strain": "Blue Andeze",
+      "category": "Pre Rolls",
+      "case_qty": 38,
+      "num_cases": 1,
+      "grams": 38,
+      "destination": "Pre Rolls",
+      "location": "Vault - PR",
+      "lab_status": "TestPassed",
+      "pkg_count": 1,
+      "status": "On Hold",
+      "metrc_tags": "1A40A030000C60D000071291",
+      "needs_review": false,
+      "super": "Pre-Roll",
+      "sub": "Pre-Roll"
+    },
+    {
+      "id": "Galactic Banana Bulk Flower - Smalls AL||8",
+      "item": "Galactic Banana Bulk Flower - Smalls AL",
+      "strain": "Galactic Banana",
+      "category": "Bulk AL",
+      "case_qty": 4,
+      "num_cases": 1,
+      "grams": 4,
+      "destination": "Bulk AL",
+      "location": "Vault - Finished Goods",
+      "lab_status": "TestPassed",
+      "pkg_count": 1,
+      "status": "On Hold",
+      "metrc_tags": "1A40A030000C9F5000004504",
+      "needs_review": false,
+      "super": "Bulk",
+      "sub": "Bulk Flower"
+    },
+    {
+      "id": "Lions Breath 3.5g||8",
+      "item": "Lions Breath 3.5g",
+      "strain": "Lions Breath",
+      "category": "Alchemy 3.5g",
+      "case_qty": 8,
+      "num_cases": 1,
+      "grams": 8,
+      "destination": "Alchemy",
+      "location": "Vault - Finished Goods",
+      "lab_status": "TestPassed",
+      "pkg_count": 1,
+      "status": "On Hold",
+      "metrc_tags": "1A40A030000C9F5000004280",
+      "needs_review": false,
+      "super": "Alchemy",
+      "sub": "Alchemy"
+    },
+    {
+      "id": "Blue Andeze 3.5g||12",
+      "item": "Blue Andeze 3.5g",
+      "strain": "Blue Andeze",
+      "category": "Alchemy 3.5g",
+      "case_qty": 12,
+      "num_cases": 1,
+      "grams": 12,
+      "destination": "Alchemy",
+      "location": "Vault - Finished Goods",
+      "lab_status": "TestPassed",
+      "pkg_count": 1,
+      "status": "On Hold",
+      "metrc_tags": "1A40A030000C9F5000004281",
+      "needs_review": false,
+      "super": "Alchemy",
+      "sub": "Alchemy"
+    },
+    {
+      "id": "Applescotti 3.5g||52.5",
+      "item": "Applescotti 3.5g",
+      "strain": "Applescotti",
+      "category": "Alchemy 3.5g",
+      "case_qty": 49,
+      "num_cases": 1,
+      "grams": 49,
+      "destination": "Alchemy",
+      "location": "Vault - Finished Goods",
+      "lab_status": "TestPassed",
+      "pkg_count": 1,
+      "status": "On Hold",
+      "metrc_tags": "1A40A030000C9F5000003923",
+      "needs_review": false,
+      "super": "Alchemy",
+      "sub": "Alchemy"
+    },
+    {
+      "id": "Lemon Cherry Sherbert Bulk Trim||2172",
+      "item": "Lemon Cherry Sherbert Bulk Trim",
+      "strain": "Lemon Cherry Sherbert",
+      "category": "Trim",
+      "case_qty": 2171.5,
+      "num_cases": 1,
+      "grams": 2171.5,
+      "destination": "Trim",
+      "location": "Vault - WIP",
+      "lab_status": "TestPassed",
+      "pkg_count": 1,
+      "status": "On Hold",
+      "metrc_tags": "1A40A030000C9F5000003871",
+      "needs_review": false,
+      "super": "Bulk",
+      "sub": "Bulk Trim"
+    },
+    {
+      "id": "Lemon Cherry Sherbert Bulk Flower - Smalls AL||271.5",
+      "item": "Lemon Cherry Sherbert Bulk Flower - Smalls AL",
+      "strain": "Lemon Cherry Sherbert",
+      "category": "Bulk AL",
+      "case_qty": 271.5,
+      "num_cases": 1,
+      "grams": 271.5,
+      "destination": "Bulk AL",
+      "location": "Vault - WIP",
+      "lab_status": "TestPassed",
+      "pkg_count": 1,
+      "status": "On Hold",
+      "metrc_tags": "1A40A030000C9F5000003872",
+      "needs_review": false,
+      "super": "Bulk",
+      "sub": "Bulk Flower"
+    },
+    {
+      "id": "Purple Push Pop Bulk Trim||1392",
+      "item": "Purple Push Pop Bulk Trim",
+      "strain": "Purple Push Pop",
+      "category": "Trim",
+      "case_qty": 1392,
+      "num_cases": 1,
+      "grams": 1392,
+      "destination": "Trim",
+      "location": "Vault - WIP",
+      "lab_status": "TestPassed",
+      "pkg_count": 1,
+      "status": "On Hold",
+      "metrc_tags": "1A40A030000C9F5000003873",
+      "needs_review": false,
+      "super": "Bulk",
+      "sub": "Bulk Trim"
+    },
+    {
+      "id": "Alien Marker Bulk Trim||1314",
+      "item": "Alien Marker Bulk Trim",
+      "strain": "Alien Marker",
+      "category": "Trim",
+      "case_qty": 1314,
+      "num_cases": 1,
+      "grams": 1314,
+      "destination": "Trim",
+      "location": "Vault - WIP",
+      "lab_status": "TestPassed",
+      "pkg_count": 1,
+      "status": "On Hold",
+      "metrc_tags": "1A40A030000C9F5000003874",
+      "needs_review": false,
+      "super": "Bulk",
+      "sub": "Bulk Trim"
+    },
+    {
+      "id": "Applescotti Bulk Trim||1242",
+      "item": "Applescotti Bulk Trim",
+      "strain": "Applescotti",
+      "category": "Trim",
+      "case_qty": 1242,
+      "num_cases": 1,
+      "grams": 1242,
+      "destination": "Trim",
+      "location": "Vault - WIP",
+      "lab_status": "TestPassed",
+      "pkg_count": 1,
+      "status": "On Hold",
+      "metrc_tags": "1A40A030000C9F5000003875",
+      "needs_review": false,
+      "super": "Bulk",
+      "sub": "Bulk Trim"
+    },
+    {
+      "id": "Applescotti Bulk Flower - Smalls AL||454",
+      "item": "Applescotti Bulk Flower - Smalls AL",
+      "strain": "Applescotti",
+      "category": "Bulk AL",
+      "case_qty": 454,
+      "num_cases": 1,
+      "grams": 454,
+      "destination": "Bulk AL",
+      "location": "Vault - WIP",
+      "lab_status": "TestPassed",
+      "pkg_count": 1,
+      "status": "On Hold",
+      "metrc_tags": "1A40A030000C9F5000003876",
+      "needs_review": false,
+      "super": "Bulk",
+      "sub": "Bulk Flower"
+    },
+    {
+      "id": "Blue Andeze Bulk Trim||1018",
+      "item": "Blue Andeze Bulk Trim",
+      "strain": "Blue Andeze Bulk Trim",
+      "category": "Trim",
+      "case_qty": 1018,
+      "num_cases": 1,
+      "grams": 1018,
+      "destination": "Trim",
+      "location": "Vault - WIP",
+      "lab_status": "TestPassed",
+      "pkg_count": 1,
+      "status": "On Hold",
+      "metrc_tags": "1A40A030000C9F5000003877",
+      "needs_review": false,
+      "super": "Bulk",
+      "sub": "Bulk Trim"
+    },
+    {
+      "id": "Blue Andeze Bulk Flower - Smalls AL||382",
+      "item": "Blue Andeze Bulk Flower - Smalls AL",
+      "strain": "Blue Andeze",
+      "category": "Bulk AL",
+      "case_qty": 382,
+      "num_cases": 1,
+      "grams": 382,
+      "destination": "Bulk AL",
+      "location": "Vault - WIP",
+      "lab_status": "TestPassed",
+      "pkg_count": 1,
+      "status": "On Hold",
+      "metrc_tags": "1A40A030000C9F5000003878",
+      "needs_review": false,
+      "super": "Bulk",
+      "sub": "Bulk Flower"
+    },
+    {
+      "id": "Applescotti Bulk Flower - PK||689.5",
+      "item": "Applescotti Bulk Flower - PK",
+      "strain": "Applescotti",
+      "category": "Bulk CCGL",
+      "case_qty": 689.5,
+      "num_cases": 1,
+      "grams": 689.5,
+      "destination": "CCGL 8th",
+      "location": "Vault - WIP",
+      "lab_status": "TestPassed",
+      "pkg_count": 1,
+      "status": "On Hold",
+      "metrc_tags": "1A40A030000C9F5000003868",
+      "needs_review": false,
+      "super": "CCGL",
+      "sub": "CCGL Bulk"
+    },
+    {
+      "id": "Galactic Banana Bulk Flower - Ext||3638",
+      "item": "Galactic Banana Bulk Flower - Ext",
+      "strain": "Galactic Banana",
+      "category": "Bulk AL",
+      "super": "Bulk",
+      "sub": "Bulk Flower",
+      "case_qty": 3637.76,
+      "num_cases": 1,
+      "grams": 3637.76,
+      "destination": "Bulk AL",
+      "location": "Vault - Ext",
+      "lab_status": "TestFailed",
+      "pkg_count": 1,
+      "status": "On Hold",
+      "metrc_tags": "1A40A030000C9F5000005018",
+      "needs_review": false
+    },
+    {
+      "id": "Alien Marker Bulk Trim - PK||5147",
+      "item": "Alien Marker Bulk Trim - PK",
+      "strain": "Alien Marker",
+      "category": "Trim",
+      "super": "Bulk",
+      "sub": "Bulk Trim",
+      "case_qty": 5105.46,
+      "num_cases": 1,
+      "grams": 5105.46,
+      "destination": "Trim",
+      "location": "Cure - Grinder",
+      "lab_status": "TestPassed",
+      "pkg_count": 1,
+      "status": "On Hold",
+      "metrc_tags": "1A40A030000C9F5000005019",
+      "needs_review": false,
+      "pack_priority": 0
+    },
+    {
+      "id": "Lemon Cherry Sherbert Bulk Trim - PK||3689",
+      "item": "Lemon Cherry Sherbert Bulk Trim - PK",
+      "strain": "Lemon Cherry Sherbert",
+      "category": "Trim",
+      "super": "Bulk",
+      "sub": "Bulk Trim",
+      "case_qty": 3625.35,
+      "num_cases": 1,
+      "grams": 3625.35,
+      "destination": "Trim",
+      "location": "Cure - Grinder",
+      "lab_status": "TestPassed",
+      "pkg_count": 1,
+      "status": "On Hold",
+      "metrc_tags": "1A40A030000C9F5000005021",
+      "needs_review": false,
+      "pack_priority": 0
+    },
+    {
+      "id": "Purple Push Pop Bulk Trim - PK||4581",
+      "item": "Purple Push Pop Bulk Trim - PK",
+      "strain": "Purple Push Pop",
+      "category": "Trim",
+      "super": "Bulk",
+      "sub": "Bulk Trim",
+      "case_qty": 4567.3,
+      "num_cases": 1,
+      "grams": 4567.3,
+      "destination": "Trim",
+      "location": "Cure - Grinder",
+      "lab_status": "TestPassed",
+      "pkg_count": 1,
+      "status": "On Hold",
+      "metrc_tags": "1A40A030000C9F5000005024",
+      "needs_review": false,
+      "pack_priority": 4
+    },
+    {
+      "id": "Lemon Cherry Sherbert Bulk Trim - PK||2222",
+      "item": "Lemon Cherry Sherbert Bulk Trim - PK",
+      "strain": "Lemon Cherry Sherbert",
+      "category": "Trim",
+      "super": "Bulk",
+      "sub": "Bulk Trim",
+      "case_qty": 8,
+      "num_cases": 1,
+      "grams": 8,
+      "destination": "Trim",
+      "location": "Cure - Grinder",
+      "lab_status": "TestPassed",
+      "pkg_count": 1,
+      "status": "On Hold",
+      "metrc_tags": "1A40A030000C9F5000005025",
+      "needs_review": false,
+      "pack_priority": 5
+    },
+    {
+      "id": "Purple Push Pop Bulk Trim - PK||4076",
+      "item": "Purple Push Pop Bulk Trim - PK",
+      "strain": "Purple Push Pop",
+      "category": "Trim",
+      "super": "Bulk",
+      "sub": "Bulk Trim",
+      "case_qty": 4063.9,
+      "num_cases": 1,
+      "grams": 4063.9,
+      "destination": "Trim",
+      "location": "Cure - WIP",
+      "lab_status": "TestPassed",
+      "pkg_count": 1,
+      "status": "Needs Test",
+      "metrc_tags": "1A40A030000C9F5000005035",
+      "needs_review": false
+    },
+    {
+      "id": "Purple Push Pop Bulk Flower - PK||3516",
+      "item": "Purple Push Pop Bulk Flower - PK",
+      "strain": "Purple Push Pop",
+      "category": "Bulk CCGL",
+      "super": "CCGL",
+      "sub": "CCGL Bulk",
+      "case_qty": 3506.75,
+      "num_cases": 1,
+      "grams": 3506.75,
+      "destination": "CCGL 8th",
+      "location": "Cure - WIP",
+      "lab_status": "TestPassed",
+      "pkg_count": 1,
+      "status": "Needs Test",
+      "metrc_tags": "1A40A030000C9F5000005037",
+      "needs_review": false
+    },
+    {
+      "id": "Lions Breath Bulk Flower - PK||5952",
+      "item": "Lions Breath Bulk Flower - PK",
+      "strain": "Lions Breath",
+      "category": "Bulk CCGL",
+      "super": "CCGL",
+      "sub": "CCGL Bulk",
+      "case_qty": 1471.49,
+      "num_cases": 1,
+      "grams": 1471.49,
+      "destination": "CCGL 8th",
+      "location": "Cure - WIP",
+      "lab_status": "TestPassed",
+      "pkg_count": 1,
+      "status": "Ready to Pack",
+      "metrc_tags": "1A40A030000C9F5000005042",
+      "needs_review": false,
+      "pack_priority": 0
+    },
+    {
+      "id": "Applescotti Bulk Trim - PK||5014",
+      "item": "Applescotti Bulk Trim - PK",
+      "strain": "Applescotti",
+      "category": "Trim",
+      "super": "Bulk",
+      "sub": "Bulk Trim",
+      "case_qty": 5003.85,
+      "num_cases": 1,
+      "grams": 5003.85,
+      "destination": "Trim",
+      "location": "Cure - WIP",
+      "lab_status": "TestPassed",
+      "pkg_count": 1,
+      "status": "Out to Test",
+      "metrc_tags": "1A40A030000C9F5000005055",
+      "needs_review": false
+    },
+    {
+      "id": "Blue Andeze - Smalls 7g||168",
+      "item": "Blue Andeze - Smalls 7g",
+      "strain": "Blue Andeze",
+      "category": "Alchemy 7g",
+      "super": "Alchemy",
+      "sub": "Alchemy",
+      "case_qty": 168,
+      "num_cases": 1,
+      "grams": 168,
+      "destination": "Alchemy",
+      "location": "Vault - Finished Goods",
+      "lab_status": "TestPassed",
+      "pkg_count": 1,
+      "status": "Ready to Sell",
+      "metrc_tags": "1A40A030000C9F5000005064",
+      "needs_review": false
+    },
+    {
+      "id": "Blue Andeze - Smalls 7g||175",
+      "item": "Blue Andeze - Smalls 7g",
+      "strain": "Blue Andeze",
+      "category": "Alchemy 7g",
+      "super": "Alchemy",
+      "sub": "Alchemy",
+      "case_qty": 175,
+      "num_cases": 2,
+      "grams": 350,
+      "destination": "Alchemy",
+      "location": "Vault - Finished Goods",
+      "lab_status": "TestPassed",
+      "pkg_count": 2,
+      "status": "Ready to Sell",
+      "metrc_tags": "1A40A030000C9F5000005065,1A40A030000C9F5000005069",
+      "needs_review": false
+    },
+    {
+      "id": "Blue Andeze Bulk Flower - PK||5194",
+      "item": "Blue Andeze Bulk Flower - PK",
+      "strain": "Blue Andeze",
+      "category": "Bulk CCGL",
+      "super": "CCGL",
+      "sub": "CCGL Bulk",
+      "case_qty": 2095.69,
+      "num_cases": 1,
+      "grams": 2095.69,
+      "destination": "CCGL 8th",
+      "location": "Cure - WIP",
+      "lab_status": "TestPassed",
+      "pkg_count": 1,
+      "status": "Needs Test",
+      "metrc_tags": "1A40A030000C9F5000005097",
+      "needs_review": false
+    },
+    {
+      "id": "Purple Push Pop 3.5g||87.5",
+      "item": "Purple Push Pop 3.5g",
+      "strain": "Purple Push Pop",
+      "category": "CCGL 8th",
+      "super": "CCGL",
+      "sub": "CCGL Eighth",
+      "case_qty": 87.5,
+      "num_cases": 14,
+      "grams": 1225,
+      "destination": "CCGL 8th",
+      "location": "Vault - Finished Goods",
+      "lab_status": "TestPassed",
+      "pkg_count": 14,
+      "status": "Ready to Sell",
+      "metrc_tags": "1A40A030000C9F5000005110,1A40A030000C9F5000005111,1A40A030000C9F5000005112,1A40A030000C9F5000005114,1A40A030000C9F5000005115,1A40A030000C9F5000005120,1A40A030000C9F5000005121,1A40A030000C9F5000005123,1A40A030000C9F5000005125,1A40A030000C9F5000005126,1A40A030000C9F5000005127,1A40A030000C9F5000005128,1A40A030000C9F5000005100,1A40A030000C9F5000005108",
+      "needs_review": false
+    },
+    {
+      "id": "Gelato 41 x Jealousy - Pre Ground Flower 14g||168",
+      "item": "Gelato 41 x Jealousy - Pre Ground Flower 14g",
+      "strain": "Gelato 41 x Jealousy",
+      "category": "Alchemy 14g",
+      "super": "Alchemy",
+      "sub": "Alchemy",
+      "case_qty": 168,
+      "num_cases": 1,
+      "grams": 168,
+      "destination": "Alchemy",
+      "location": "Vault - Finished Goods",
+      "lab_status": "TestPassed",
+      "pkg_count": 1,
+      "status": "Ready to Sell",
+      "metrc_tags": "1A40A030000C9F5000005224",
+      "needs_review": false
+    },
+    {
+      "id": "Gelato 41 x Jealousy - Pre Ground Flower 14g||280",
+      "item": "Gelato 41 x Jealousy - Pre Ground Flower 14g",
+      "strain": "Gelato 41 x Jealousy",
+      "category": "Alchemy 14g",
+      "super": "Alchemy",
+      "sub": "Alchemy",
+      "case_qty": 280,
+      "num_cases": 1,
+      "grams": 280,
+      "destination": "Alchemy",
+      "location": "Vault - Finished Goods",
+      "lab_status": "TestPassed",
+      "pkg_count": 1,
+      "status": "Ready to Sell",
+      "metrc_tags": "1A40A030000C9F5000005235",
+      "needs_review": false
+    },
+    {
+      "id": "Papaya BX Fresh Frozen Flower||4786",
+      "item": "Papaya BX Fresh Frozen Flower",
+      "strain": "Papaya BX",
+      "category": "Fresh Frozen",
+      "super": "Bulk",
+      "sub": "Bulk Flower",
+      "case_qty": 4785.99,
+      "num_cases": 1,
+      "grams": 4785.99,
+      "destination": "Extraction",
+      "location": "Cure - Ext Freezer",
+      "lab_status": "TestPassed",
+      "pkg_count": 1,
+      "status": "Out to Test",
+      "metrc_tags": "1A40A030000C9F5000005157",
+      "needs_review": false
+    },
+    {
+      "id": "Blue Andeze Fresh Frozen Flower||29370",
+      "item": "Blue Andeze Fresh Frozen Flower",
+      "strain": "Blue Andeze",
+      "category": "Fresh Frozen",
+      "super": "Bulk",
+      "sub": "Bulk Flower",
+      "case_qty": 29352.4,
+      "num_cases": 1,
+      "grams": 29352.4,
+      "destination": "Extraction",
+      "location": "Cure - Ext Freezer",
+      "lab_status": "TestPassed",
+      "pkg_count": 1,
+      "status": "Out to Test",
+      "metrc_tags": "1A40A030000C9F5000005161",
+      "needs_review": false
+    },
+    {
+      "id": "Cape Cod Grow Lab - Pre Roll 1g - Blue Andeze||50",
+      "item": "Cape Cod Grow Lab - Pre Roll 1g - Blue Andeze",
+      "strain": "Blue Andeze",
+      "category": "Pre Rolls",
+      "super": "Pre-Roll",
+      "sub": "Pre-Roll",
+      "case_qty": 50,
+      "num_cases": 2,
+      "grams": 100,
+      "destination": "Pre Rolls",
+      "location": "Vault - PR",
+      "lab_status": "TestPassed",
+      "pkg_count": 2,
+      "status": "Ready to Sell",
+      "metrc_tags": "1A40A030000C60D000071256,1A40A030000C60D000071269",
+      "needs_review": false
+    },
+    {
+      "id": "Blue Andeze 3.5g||87.5",
+      "item": "Blue Andeze 3.5g",
+      "strain": "Blue Andeze",
+      "category": "CCGL 8th",
+      "super": "CCGL",
+      "sub": "CCGL Eighth",
+      "case_qty": 87.5,
+      "num_cases": 5,
+      "grams": 437.5,
+      "destination": "CCGL 8th",
+      "location": "Vault - Finished Goods",
+      "lab_status": "TestPassed",
+      "pkg_count": 5,
+      "status": "Ready to Sell",
+      "metrc_tags": "1A40A030000C9F5000005273,1A40A030000C9F5000005288,1A40A030000C9F5000005298,1A40A030000C9F5000005299,1A40A030000C9F5000005300",
+      "needs_review": false
+    },
+    {
+      "id": "Lions Breath - Smalls 14g||154",
+      "item": "Lions Breath - Smalls 14g",
+      "strain": "Lions Breath",
+      "category": "Alchemy 14g",
+      "super": "Alchemy",
+      "sub": "Alchemy",
+      "case_qty": 154,
+      "num_cases": 1,
+      "grams": 154,
+      "destination": "Alchemy",
+      "location": "Vault - Finished Goods",
+      "lab_status": "TestPassed",
+      "pkg_count": 1,
+      "status": "Ready to Sell",
+      "metrc_tags": "1A40A030000C9F5000005269",
+      "needs_review": false
+    },
+    {
+      "id": "Lemon Cherry Sherbert - Pre Ground Flower 7g||175",
+      "item": "Lemon Cherry Sherbert - Pre Ground Flower 7g",
+      "strain": "Lemon Cherry Sherbert",
+      "category": "Alchemy 7g",
+      "super": "Alchemy",
+      "sub": "Alchemy",
+      "case_qty": 175,
+      "num_cases": 8,
+      "grams": 1400,
+      "destination": "Alchemy",
+      "location": "Vault - Finished Goods",
+      "lab_status": "TestPassed",
+      "pkg_count": 8,
+      "status": "Ready to Sell",
+      "metrc_tags": "1A40A030000C9F5000005241,1A40A030000C9F5000005243,1A40A030000C9F5000005245,1A40A030000C9F5000005246,1A40A030000C9F5000005247,1A40A030000C9F5000005248,1A40A030000C9F5000005249,1A40A030000C9F5000005250",
+      "needs_review": false
+    },
+    {
+      "id": "Lemon Cherry Sherbert Bulk Flower - PK||5132",
+      "item": "Lemon Cherry Sherbert Bulk Flower - PK",
+      "strain": "Lemon Cherry Sherbert",
+      "category": "Bulk CCGL",
+      "super": "CCGL",
+      "sub": "CCGL Bulk",
+      "case_qty": 5131.7001,
+      "num_cases": 1,
+      "grams": 5131.7001,
+      "destination": "CCGL 8th",
+      "location": "Cure - WIP",
+      "lab_status": "SubmittedForTesting",
+      "pkg_count": 1,
+      "status": "Out to Test",
+      "metrc_tags": "1A40A030000C9F5000005330",
+      "needs_review": false
+    },
+    {
+      "id": "Purple Push Pop Bulk Flower - AL||6771",
+      "item": "Purple Push Pop Bulk Flower - AL",
+      "strain": "Purple Push Pop",
+      "category": "Bulk AL",
+      "super": "Bulk",
+      "sub": "Bulk Flower",
+      "case_qty": 6771.3,
+      "num_cases": 1,
+      "grams": 6771.3,
+      "destination": "Bulk AL",
+      "location": "Cure - WIP",
+      "lab_status": "SubmittedForTesting",
+      "pkg_count": 1,
+      "status": "Out to Test",
+      "metrc_tags": "1A40A030000C9F5000005331",
+      "needs_review": false
+    },
+    {
+      "id": "Lemon Cherry Sherbert Bulk Flower - PR||4397",
+      "item": "Lemon Cherry Sherbert Bulk Flower - PR",
+      "strain": "Lemon Cherry Sherbert",
+      "category": "Bulk PR",
+      "super": "Bulk",
+      "sub": "Bulk Flower",
+      "case_qty": 4396.59,
+      "num_cases": 1,
+      "grams": 4396.59,
+      "destination": "Bulk PR",
+      "location": "Cure - WIP",
+      "lab_status": "SubmittedForTesting",
+      "pkg_count": 1,
+      "status": "Out to Test",
+      "metrc_tags": "1A40A030000C9F5000005335",
+      "needs_review": false
+    },
+    {
+      "id": "Galactic Banana Bulk Flower - BM||460",
+      "item": "Galactic Banana Bulk Flower - BM",
+      "strain": "Galactic Banana",
+      "category": "Bulk",
+      "super": "Bulk",
+      "sub": "Bulk Flower",
+      "case_qty": 460,
+      "num_cases": 1,
+      "grams": 460,
+      "destination": "Bulk Menu",
+      "location": "Cure - Bulk",
+      "lab_status": "TestPassed",
+      "pkg_count": 1,
+      "status": "Ready to Sell",
+      "metrc_tags": "1A40A030000C9F5000005324",
+      "needs_review": false
+    },
+    {
+      "id": "Lions Breath 3.5g||87.5",
+      "item": "Lions Breath 3.5g",
+      "strain": "Lions Breath",
+      "category": "CCGL 8th",
+      "super": "CCGL",
+      "sub": "CCGL Eighth",
+      "case_qty": 87.5,
+      "num_cases": 2,
+      "grams": 175,
+      "destination": "CCGL 8th",
+      "location": "Vault - Finished Goods",
+      "lab_status": "TestPassed",
+      "pkg_count": 2,
+      "status": "Ready to Sell",
+      "metrc_tags": "1A40A030000C9F5000005327,1A40A030000C9F5000005328",
+      "needs_review": false
+    },
+    {
+      "id": "Candy Fumez x Grape Gas Bulk Trim||828",
+      "item": "Candy Fumez x Grape Gas Bulk Trim",
+      "strain": "Candy Fumez x Grape Gas",
+      "category": "Trim",
+      "super": "Bulk",
+      "sub": "Bulk Trim",
+      "case_qty": 828,
+      "num_cases": 1,
+      "grams": 828,
+      "destination": "Trim",
+      "location": "Cure - WIP",
+      "lab_status": "TestPassed",
+      "pkg_count": 1,
+      "status": "Ready to Sell",
+      "metrc_tags": "1A40A030000C9F5000005322",
+      "needs_review": false
+    },
+    {
+      "id": "Purple Push Pop Bulk Flower - BM||1619",
+      "item": "Purple Push Pop Bulk Flower - BM",
+      "strain": "Purple Push Pop",
+      "category": "Bulk",
+      "super": "Bulk",
+      "sub": "Bulk Flower",
+      "case_qty": 1618.69,
+      "num_cases": 1,
+      "grams": 1618.69,
+      "destination": "Bulk Menu",
+      "location": "Cure - WIP",
+      "lab_status": "TestPassed",
+      "pkg_count": 1,
+      "status": "Ready to Sell",
+      "metrc_tags": "1A40A030000C9F5000005323",
+      "needs_review": false
+    },
+    {
+      "id": "Purple Push Pop 1g - BT||87",
+      "item": "Purple Push Pop 1g - BT",
+      "strain": "Purple Push Pop",
+      "category": "Bud Tender",
+      "super": "Bulk",
+      "sub": "Bulk Flower",
+      "case_qty": 87,
+      "num_cases": 1,
+      "grams": 87,
+      "destination": "Bud Tender",
+      "location": "Vault - Finished Goods",
+      "lab_status": "TestPassed",
+      "pkg_count": 1,
+      "status": "On Hold",
+      "metrc_tags": "1A40A030000C9F5000005308",
+      "needs_review": false
+    }
+  ],
+  "harvests": [
+    {
+      "batch": "041626PPPF2H09",
+      "strain": "Purple Push Pop",
+      "wet_g": 164707.72,
+      "wet_orig_g": 173490,
+      "dry_g": null,
+      "dry_lbs": 0,
+      "after_waste_lbs": 0,
+      "forecast_value": 0,
+      "status": "Raw / Curing",
+      "raw_priority": 2
+    },
+    {
+      "batch": "041526BLAF2H09",
+      "strain": "Blue Andeze",
+      "wet_g": 101530.72,
+      "wet_orig_g": 105475,
+      "dry_g": null,
+      "dry_lbs": 0,
+      "after_waste_lbs": 0,
+      "forecast_value": 0,
+      "status": "Raw / Curing",
+      "raw_priority": 1
+    },
+    {
+      "batch": "041526LCSF2H09",
+      "strain": "Lemon Cherry Sherbert",
+      "wet_g": 95478.72,
+      "wet_orig_g": 97865,
+      "dry_g": null,
+      "dry_lbs": 0,
+      "after_waste_lbs": 0,
+      "forecast_value": 0,
+      "status": "Raw / Curing",
+      "raw_priority": 0
+    },
+    {
+      "batch": "052126SRUF1H10",
+      "strain": "Super Runtz",
+      "wet_g": 38440,
+      "wet_orig_g": 38440,
+      "dry_g": null,
+      "dry_lbs": 0,
+      "after_waste_lbs": 0,
+      "forecast_value": 0,
+      "status": "Raw / Curing",
+      "raw_priority": 3
+    },
+    {
+      "batch": "052126PPPF1H10",
+      "strain": "Purple Push Pop",
+      "wet_g": 126225,
+      "wet_orig_g": 126225,
+      "dry_g": null,
+      "dry_lbs": 0,
+      "after_waste_lbs": 0,
+      "forecast_value": 0,
+      "status": "Raw / Curing",
+      "raw_priority": 4
+    },
+    {
+      "batch": "052126LIBF1H10",
+      "strain": "Lions Breath",
+      "wet_g": 134550,
+      "wet_orig_g": 134550,
+      "dry_g": null,
+      "dry_lbs": 0,
+      "after_waste_lbs": 0,
+      "forecast_value": 0,
+      "status": "Raw / Curing",
+      "raw_priority": 5
+    },
+    {
+      "batch": "052126TBLF1H10",
+      "strain": "The Bodhi",
+      "wet_g": 39465,
+      "wet_orig_g": 39465,
+      "dry_g": null,
+      "dry_lbs": 0,
+      "after_waste_lbs": 0,
+      "forecast_value": 0,
+      "status": "Raw / Curing",
+      "raw_priority": 6
+    },
+    {
+      "batch": "052026ALMF1H10",
+      "strain": "Alien Marker",
+      "wet_g": 115395,
+      "wet_orig_g": 115545,
+      "dry_g": null,
+      "dry_lbs": 0,
+      "after_waste_lbs": 0,
+      "forecast_value": 0,
+      "status": "Raw / Curing",
+      "raw_priority": 7
+    },
+    {
+      "batch": "051926SWF1H10",
+      "strain": "Swampwater Fumez",
+      "wet_g": 1,
+      "wet_orig_g": 10795,
+      "dry_g": null,
+      "dry_lbs": 0,
+      "after_waste_lbs": 0,
+      "forecast_value": 0,
+      "status": "Raw / Curing",
+      "raw_priority": 8
+    },
+    {
+      "batch": "051926PBXF1H10",
+      "strain": "Papaya BX",
+      "wet_g": 0,
+      "wet_orig_g": 6715,
+      "dry_g": null,
+      "dry_lbs": 0,
+      "after_waste_lbs": 0,
+      "forecast_value": 0,
+      "status": "Raw / Curing",
+      "raw_priority": 9
+    },
+    {
+      "batch": "051926BLAF1H10",
+      "strain": "Blue Andeze",
+      "wet_g": 3138,
+      "wet_orig_g": 38130,
+      "dry_g": null,
+      "dry_lbs": 0,
+      "after_waste_lbs": 0,
+      "forecast_value": 0,
+      "status": "Raw / Curing",
+      "raw_priority": 10
+    },
+    {
+      "batch": "051826BLMF1H10",
+      "strain": "Black Maple",
+      "wet_g": 673,
+      "wet_orig_g": 16565,
+      "dry_g": null,
+      "dry_lbs": 0,
+      "after_waste_lbs": 0,
+      "forecast_value": 0,
+      "status": "Raw / Curing",
+      "raw_priority": 11
+    },
+    {
+      "batch": "051826RAGF1H10",
+      "strain": "Rainbow Guava",
+      "wet_g": 1540,
+      "wet_orig_g": 25800,
+      "dry_g": null,
+      "dry_lbs": 0,
+      "after_waste_lbs": 0,
+      "forecast_value": 0,
+      "status": "Raw / Curing",
+      "raw_priority": 12
+    }
+  ],
+  "offsite": [
+    {
+      "id": "Vape Cart- Alien Marker - 0.5||Alien Marker||1A40A030000F939000001582",
+      "product": "Vape Cart- Alien Marker - 0.5",
+      "strain": "Alien Marker",
+      "units": 63,
+      "price": 17.5,
+      "value": 1102.5,
+      "metrc_tag": "1A40A030000F939000001582"
+    },
+    {
+      "id": "Hellcat Cured Resin Disposable Vape 1G||Hellcat||1A40A0300005975000001653",
+      "product": "Hellcat Cured Resin Disposable Vape 1G",
+      "strain": "Hellcat",
+      "units": 25,
+      "price": 17.5,
+      "value": 437.5,
+      "metrc_tag": "1A40A0300005975000001653"
+    },
+    {
+      "id": "Hellcat Cured Resin Disposable Vape 1G||Hellcat||1A40A0300005975000001654",
+      "product": "Hellcat Cured Resin Disposable Vape 1G",
+      "strain": "Hellcat",
+      "units": 25,
+      "price": 17.5,
+      "value": 437.5,
+      "metrc_tag": "1A40A0300005975000001654"
+    },
+    {
+      "id": "Hellcat Cured Resin Disposable Vape 1G||Hellcat||1A40A0300005975000001655",
+      "product": "Hellcat Cured Resin Disposable Vape 1G",
+      "strain": "Hellcat",
+      "units": 25,
+      "price": 17.5,
+      "value": 437.5,
+      "metrc_tag": "1A40A0300005975000001655"
+    },
+    {
+      "id": "Hellcat Cured Resin Disposable Vape 1G||Hellcat||1A40A0300005975000001656",
+      "product": "Hellcat Cured Resin Disposable Vape 1G",
+      "strain": "Hellcat",
+      "units": 25,
+      "price": 17.5,
+      "value": 437.5,
+      "metrc_tag": "1A40A0300005975000001656"
+    },
+    {
+      "id": "Hellcat Cured Resin Disposable Vape 1G||Hellcat||1A40A0300005975000001657",
+      "product": "Hellcat Cured Resin Disposable Vape 1G",
+      "strain": "Hellcat",
+      "units": 25,
+      "price": 17.5,
+      "value": 437.5,
+      "metrc_tag": "1A40A0300005975000001657"
+    },
+    {
+      "id": "Hellcat Cured Resin Disposable Vape 1G||Hellcat||1A40A0300005975000001659",
+      "product": "Hellcat Cured Resin Disposable Vape 1G",
+      "strain": "Hellcat",
+      "units": 25,
+      "price": 17.5,
+      "value": 437.5,
+      "metrc_tag": "1A40A0300005975000001659"
+    },
+    {
+      "id": "Hellcat Cured Resin Disposable Vape 1G||Hellcat||1A40A0300005975000001662",
+      "product": "Hellcat Cured Resin Disposable Vape 1G",
+      "strain": "Hellcat",
+      "units": 25,
+      "price": 17.5,
+      "value": 437.5,
+      "metrc_tag": "1A40A0300005975000001662"
+    },
+    {
+      "id": "Hellcat Cured Resin Disposable Vape 1G||Hellcat||1A40A0300005975000001663",
+      "product": "Hellcat Cured Resin Disposable Vape 1G",
+      "strain": "Hellcat",
+      "units": 25,
+      "price": 17.5,
+      "value": 437.5,
+      "metrc_tag": "1A40A0300005975000001663"
+    },
+    {
+      "id": "Hellcat Cured Resin Disposable Vape 1G||Hellcat||1A40A0300005975000001664",
+      "product": "Hellcat Cured Resin Disposable Vape 1G",
+      "strain": "Hellcat",
+      "units": 25,
+      "price": 17.5,
+      "value": 437.5,
+      "metrc_tag": "1A40A0300005975000001664"
+    },
+    {
+      "id": "Hellcat Cured Resin Disposable Vape 1G||Hellcat||1A40A0300005975000001665",
+      "product": "Hellcat Cured Resin Disposable Vape 1G",
+      "strain": "Hellcat",
+      "units": 25,
+      "price": 17.5,
+      "value": 437.5,
+      "metrc_tag": "1A40A0300005975000001665"
+    },
+    {
+      "id": "Hellcat Cured Resin Disposable Vape 1G||Hellcat||1A40A0300005975000001666",
+      "product": "Hellcat Cured Resin Disposable Vape 1G",
+      "strain": "Hellcat",
+      "units": 25,
+      "price": 17.5,
+      "value": 437.5,
+      "metrc_tag": "1A40A0300005975000001666"
+    },
+    {
+      "id": "Hellcat Cured Resin Disposable Vape 1G||Hellcat||1A40A0300005975000001668",
+      "product": "Hellcat Cured Resin Disposable Vape 1G",
+      "strain": "Hellcat",
+      "units": 25,
+      "price": 17.5,
+      "value": 437.5,
+      "metrc_tag": "1A40A0300005975000001668"
+    },
+    {
+      "id": "Hellcat Cured Resin Disposable Vape 1G||Hellcat||1A40A010000DAC2000020485",
+      "product": "Hellcat Cured Resin Disposable Vape 1G",
+      "strain": "Hellcat",
+      "units": 25,
+      "price": 17.5,
+      "value": 437.5,
+      "metrc_tag": "1A40A010000DAC2000020485"
+    },
+    {
+      "id": "Hellcat Cured Resin Disposable Vape 1G||Hellcat||1A40A010000DAC2000020488",
+      "product": "Hellcat Cured Resin Disposable Vape 1G",
+      "strain": "Hellcat",
+      "units": 25,
+      "price": 17.5,
+      "value": 437.5,
+      "metrc_tag": "1A40A010000DAC2000020488"
+    },
+    {
+      "id": "Hellcat Cured Resin Disposable Vape 1G||Hellcat||1A40A010000DAC2000020489",
+      "product": "Hellcat Cured Resin Disposable Vape 1G",
+      "strain": "Hellcat",
+      "units": 25,
+      "price": 17.5,
+      "value": 437.5,
+      "metrc_tag": "1A40A010000DAC2000020489"
+    },
+    {
+      "id": "Hellcat Cured Resin Disposable Vape 1G||Hellcat||1A40A010000DAC2000020491",
+      "product": "Hellcat Cured Resin Disposable Vape 1G",
+      "strain": "Hellcat",
+      "units": 25,
+      "price": 17.5,
+      "value": 437.5,
+      "metrc_tag": "1A40A010000DAC2000020491"
+    },
+    {
+      "id": "Hellcat Cured Resin Disposable Vape 1G||Hellcat||1A40A010000DAC2000020493",
+      "product": "Hellcat Cured Resin Disposable Vape 1G",
+      "strain": "Hellcat",
+      "units": 25,
+      "price": 17.5,
+      "value": 437.5,
+      "metrc_tag": "1A40A010000DAC2000020493"
+    },
+    {
+      "id": "Hellcat Cured Resin Disposable Vape 1G||Hellcat||1A40A010000DAC2000020496",
+      "product": "Hellcat Cured Resin Disposable Vape 1G",
+      "strain": "Hellcat",
+      "units": 25,
+      "price": 17.5,
+      "value": 437.5,
+      "metrc_tag": "1A40A010000DAC2000020496"
+    },
+    {
+      "id": "Hellcat Cured Resin Disposable Vape 1G||Hellcat||1A40A010000DAC2000020497",
+      "product": "Hellcat Cured Resin Disposable Vape 1G",
+      "strain": "Hellcat",
+      "units": 25,
+      "price": 17.5,
+      "value": 437.5,
+      "metrc_tag": "1A40A010000DAC2000020497"
+    },
+    {
+      "id": "Hellcat Cured Resin Disposable Vape 1G||Hellcat||1A40A010000DAC2000020480",
+      "product": "Hellcat Cured Resin Disposable Vape 1G",
+      "strain": "Hellcat",
+      "units": 25,
+      "price": 17.5,
+      "value": 437.5,
+      "metrc_tag": "1A40A010000DAC2000020480"
+    },
+    {
+      "id": "Live Rosin - Alien Marker - 1g||Alien Marker||1A40A030000F939000002132",
+      "product": "Live Rosin - Alien Marker - 1g",
+      "strain": "Alien Marker",
+      "units": 97,
+      "price": 32.5,
+      "value": 3152.5,
+      "metrc_tag": "1A40A030000F939000002132"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020296",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 26,
+      "price": 15,
+      "value": 390,
+      "metrc_tag": "1A40A010000DAC2000020296"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020297",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020297"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020298",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020298"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020301",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020301"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020302",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020302"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020303",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020303"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020304",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020304"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020305",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020305"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020306",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020306"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020307",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020307"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020308",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020308"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020311",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020311"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020312",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020312"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020314",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020314"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020316",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020316"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020317",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020317"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020319",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020319"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020322",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020322"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020325",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020325"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020326",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020326"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020327",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020327"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020329",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020329"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020330",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020330"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020331",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020331"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020333",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020333"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020334",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020334"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020335",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020335"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020336",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020336"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020337",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020337"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020338",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020338"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020341",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020341"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020343",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020343"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020344",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020344"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020345",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020345"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020346",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020346"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020347",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020347"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020348",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020348"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020349",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020349"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020350",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020350"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020352",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020352"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020353",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020353"
+    },
+    {
+      "id": "Sticky Ricky x Grandi Candy Sugar 1G||Sticky Ricky X Grandi Candy||1A40A010000DAC2000020355",
+      "product": "Sticky Ricky x Grandi Candy Sugar 1G",
+      "strain": "Sticky Ricky X Grandi Candy",
+      "units": 25,
+      "price": 15,
+      "value": 375,
+      "metrc_tag": "1A40A010000DAC2000020355"
+    },
+    {
+      "id": "Vape Cart- Astro Candy - 0.5g||Astro Candy ||1A40A030000F939000002293",
+      "product": "Vape Cart- Astro Candy - 0.5g",
+      "strain": "Astro Candy ",
+      "units": 4,
+      "price": 17.5,
+      "value": 70,
+      "metrc_tag": "1A40A030000F939000002293"
+    }
+  ],
+  "audit": [
+    {
+      "ts": "2026-06-03 17:21",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "1 items"
+    },
+    {
+      "ts": "2026-06-03 17:21",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Purple Push Pop 1g - BT",
+      "before": "On Hold",
+      "after": "On Hold"
+    },
+    {
+      "ts": "2026-06-03 17:21",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "1 items"
+    },
+    {
+      "ts": "2026-06-03 17:21",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Purple Push Pop Bulk Flower - BM",
+      "before": "Ready to Sell",
+      "after": "Ready to Sell"
+    },
+    {
+      "ts": "2026-06-03 17:21",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "1 items"
+    },
+    {
+      "ts": "2026-06-03 17:21",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Candy Fumez x Grape Gas Bulk Trim",
+      "before": "Ready to Sell",
+      "after": "Ready to Sell"
+    },
+    {
+      "ts": "2026-06-03 17:20",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "1 items"
+    },
+    {
+      "ts": "2026-06-03 17:20",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Lions Breath 3.5g",
+      "before": "Ready to Sell",
+      "after": "Ready to Sell"
+    },
+    {
+      "ts": "2026-06-03 17:20",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "1 items"
+    },
+    {
+      "ts": "2026-06-03 17:20",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Galactic Banana Bulk Flower - BM",
+      "before": "Ready to Sell",
+      "after": "Ready to Sell"
+    },
+    {
+      "ts": "2026-06-03 17:20",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "1 items"
+    },
+    {
+      "ts": "2026-06-03 17:20",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Lemon Cherry Sherbert Bulk Flower - PR",
+      "before": "Out to Test",
+      "after": "Out to Test"
+    },
+    {
+      "ts": "2026-06-03 17:20",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "1 items"
+    },
+    {
+      "ts": "2026-06-03 17:20",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Purple Push Pop Bulk Flower - AL",
+      "before": "Out to Test",
+      "after": "Out to Test"
+    },
+    {
+      "ts": "2026-06-03 17:20",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "1 items"
+    },
+    {
+      "ts": "2026-06-03 17:20",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Lemon Cherry Sherbert Bulk Flower - PK",
+      "before": "Out to Test",
+      "after": "Out to Test"
+    },
+    {
+      "ts": "2026-06-03 17:20",
+      "user": "Drew",
+      "action": "Excel uploaded",
+      "item": "(file)",
+      "before": "Sheet1 → Packages (METRC raw, 48 items)",
+      "after": "+8 new pkgs, 12 updated, 16 archived"
+    },
+    {
+      "ts": "2026-06-03 17:20",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Black Maple Fresh Frozen Flower",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-06-03 17:20",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Rainbow Guava Fresh Frozen Flower",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-06-03 17:20",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Swampwater Fumez Fresh Frozen Flower",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-06-03 17:20",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Applescotti - Smalls 14g",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-06-03 17:20",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Applescotti - Smalls 14g",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-06-03 17:20",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Heir Heads - Pre Ground Flower 7g",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-06-03 17:20",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Lions Breath - Smalls 14g",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-06-03 17:20",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Purple Push Pop - Smalls 14g",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-06-03 17:20",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Blue Andeze Bulk Flower - Smalls AL",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-06-03 17:20",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Purple Push Pop - Smalls 14g",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-06-03 17:20",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Galactic Banana Bulk Flower - PR",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-06-03 17:20",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Blue Andeze - Smalls 14g",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-06-03 17:20",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Purple Push Pop Bulk Flower - PK",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-06-03 17:20",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Blue Andeze 1g - BT",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-06-03 17:20",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Candy Fumez x Grape Gas Bulk Flower - Smalls AL",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-06-03 17:20",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Blue Andeze 1g - BT",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-06-03 17:20",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Purple Push Pop 1g - BT",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-06-03 17:20",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Purple Push Pop Bulk Flower - BM",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-06-03 17:20",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Candy Fumez x Grape Gas Bulk Trim",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-06-03 17:20",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Lions Breath 3.5g",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-06-03 17:20",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Galactic Banana Bulk Flower - BM",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-06-03 17:20",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Lemon Cherry Sherbert Bulk Flower - PR",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-06-03 17:20",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Purple Push Pop Bulk Flower - AL",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-06-03 17:20",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Lemon Cherry Sherbert Bulk Flower - PK",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-28 15:51",
+      "user": "Drew",
+      "action": "Excel uploaded",
+      "item": "(file)",
+      "before": "Sheet1 → Packages (METRC raw, 56 items)",
+      "after": "17 updated, 21 archived"
+    },
+    {
+      "ts": "2026-05-28 15:51",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Double Runtz Bulk Flower",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-28 15:51",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Mixed Bulk Trim",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-28 15:51",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Lions Breath 3.5g",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-28 15:51",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Blue Andeze Bulk Trim",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-28 15:51",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Galactic Banana Bulk Trim",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-28 15:51",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Blue Andeze Bulk Flower - BM",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-28 15:51",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Lions Breath Bulk Trim",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-28 15:51",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Lions Breath Bulk Trim - PK",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-28 15:51",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Purple Push Pop Bulk Trim",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-28 15:51",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Cape White Shark Bulk Trim",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-28 15:51",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Galactic Banana Bulk Trim",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-28 15:51",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Zowah Bulk Trim - PK",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-28 15:51",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Lions Breath Bulk Flower - Ext",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-28 15:51",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Cape White Shark Bulk Flower - Ext",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-28 15:51",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Galactic Banana Bulk Trim",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-28 15:51",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Lions Breath Bulk Trim",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-28 15:51",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Candy Fumez x Grape Gas Bulk Trim",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-28 15:51",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Blue Andeze Bulk Trim",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-28 15:51",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Lemon Cherry Sherbert Bulk Trim",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-28 15:51",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Double Runtz Bulk Flower",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-28 15:51",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Galactic Banana - Smalls 14g",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-27 17:16",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "1 items"
+    },
+    {
+      "ts": "2026-05-27 17:16",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Lions Breath Bulk Flower - PK",
+      "before": "Ready to Pack",
+      "after": "Ready to Pack"
+    },
+    {
+      "ts": "2026-05-27 17:16",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "1 items"
+    },
+    {
+      "ts": "2026-05-27 17:16",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Double Runtz Bulk Flower",
+      "before": "On Hold",
+      "after": "On Hold"
+    },
+    {
+      "ts": "2026-05-27 17:15",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "1 items"
+    },
+    {
+      "ts": "2026-05-27 17:15",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Lions Breath Bulk Flower - PK",
+      "before": "Ready to Sell",
+      "after": "Ready to Sell"
+    },
+    {
+      "ts": "2026-05-27 17:15",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "1 items"
+    },
+    {
+      "ts": "2026-05-27 17:15",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Lions Breath Bulk Flower - PK",
+      "before": "Ready to Pack",
+      "after": "Ready to Pack"
+    },
+    {
+      "ts": "2026-05-27 17:15",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Double Runtz Bulk Flower",
+      "before": "Ready to Sell",
+      "after": "Ready to Sell"
+    },
+    {
+      "ts": "2026-05-27 17:15",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Double Runtz Bulk Flower",
+      "before": "Ready to Sell",
+      "after": "Ready to Sell"
+    },
+    {
+      "ts": "2026-05-27 17:15",
+      "user": "Drew",
+      "action": "Excel uploaded",
+      "item": "(file)",
+      "before": "Sheet1 → Packages (METRC raw, 77 items)",
+      "after": "+1 new pkgs, 16 updated"
+    },
+    {
+      "ts": "2026-05-27 17:15",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Double Runtz Bulk Flower",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-27 17:14",
+      "user": "Drew",
+      "action": "Excel uploaded",
+      "item": "(file)",
+      "before": "Sheet1 → Harvests (13 batches)",
+      "after": "+10 new harvests, 2 harvests updated"
+    },
+    {
+      "ts": "2026-05-27 17:14",
+      "user": "Drew",
+      "action": "New harvest from upload",
+      "item": "051826RAGF1H10",
+      "before": "(new)",
+      "after": "Raw / Curing"
+    },
+    {
+      "ts": "2026-05-27 17:14",
+      "user": "Drew",
+      "action": "New harvest from upload",
+      "item": "051826BLMF1H10",
+      "before": "(new)",
+      "after": "Raw / Curing"
+    },
+    {
+      "ts": "2026-05-27 17:14",
+      "user": "Drew",
+      "action": "New harvest from upload",
+      "item": "051926BLAF1H10",
+      "before": "(new)",
+      "after": "Raw / Curing"
+    },
+    {
+      "ts": "2026-05-27 17:14",
+      "user": "Drew",
+      "action": "New harvest from upload",
+      "item": "051926PBXF1H10",
+      "before": "(new)",
+      "after": "Raw / Curing"
+    },
+    {
+      "ts": "2026-05-27 17:14",
+      "user": "Drew",
+      "action": "New harvest from upload",
+      "item": "051926SWF1H10",
+      "before": "(new)",
+      "after": "Raw / Curing"
+    },
+    {
+      "ts": "2026-05-27 17:14",
+      "user": "Drew",
+      "action": "New harvest from upload",
+      "item": "052026ALMF1H10",
+      "before": "(new)",
+      "after": "Raw / Curing"
+    },
+    {
+      "ts": "2026-05-27 17:14",
+      "user": "Drew",
+      "action": "New harvest from upload",
+      "item": "052126TBLF1H10",
+      "before": "(new)",
+      "after": "Raw / Curing"
+    },
+    {
+      "ts": "2026-05-27 17:14",
+      "user": "Drew",
+      "action": "New harvest from upload",
+      "item": "052126LIBF1H10",
+      "before": "(new)",
+      "after": "Raw / Curing"
+    },
+    {
+      "ts": "2026-05-27 17:14",
+      "user": "Drew",
+      "action": "New harvest from upload",
+      "item": "052126PPPF1H10",
+      "before": "(new)",
+      "after": "Raw / Curing"
+    },
+    {
+      "ts": "2026-05-27 17:14",
+      "user": "Drew",
+      "action": "New harvest from upload",
+      "item": "052126SRUF1H10",
+      "before": "(new)",
+      "after": "Raw / Curing"
+    },
+    {
+      "ts": "2026-05-27 17:14",
+      "user": "Drew",
+      "action": "Excel uploaded",
+      "item": "(file)",
+      "before": "Order Sheet CSV (65 rows)",
+      "after": "65 offsite"
+    },
+    {
+      "ts": "2026-05-27 12:23",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Lemon Cherry Sherbert - Pre Ground Flower 7g",
+      "before": "Ready to Sell",
+      "after": "Ready to Sell"
+    },
+    {
+      "ts": "2026-05-27 12:23",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Mixed Bulk Trim",
+      "before": "On Hold",
+      "after": "On Hold"
+    },
+    {
+      "ts": "2026-05-27 12:23",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Lions Breath - Smalls 14g",
+      "before": "Ready to Sell",
+      "after": "Ready to Sell"
+    },
+    {
+      "ts": "2026-05-27 12:22",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Blue Andeze 3.5g",
+      "before": "Ready to Sell",
+      "after": "Ready to Sell"
+    },
+    {
+      "ts": "2026-05-27 12:22",
+      "user": "Drew",
+      "action": "Excel uploaded",
+      "item": "(file)",
+      "before": "Sheet1 → Packages (METRC raw, 76 items)",
+      "after": "+4 new pkgs, 23 updated, 5 archived"
+    },
+    {
+      "ts": "2026-05-27 12:22",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Mixed Bulk Trim",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-27 12:22",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Heir Heads - Pre Ground Flower 7g",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-27 12:22",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Heir Heads Bulk Trim - PK",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-27 12:22",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Lions Breath Bulk Flower - PR",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-27 12:22",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Gelato 41 x Jealousy Bulk Trim - PK",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-27 12:22",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Lemon Cherry Sherbert - Pre Ground Flower 7g",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-27 12:22",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Mixed Bulk Trim",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-27 12:22",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Lions Breath - Smalls 14g",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-27 12:22",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Blue Andeze 3.5g",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-21 16:00",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Cape Cod Grow Lab - Pre Roll 1g - Blue Andeze",
+      "before": "Ready to Sell",
+      "after": "Ready to Sell"
+    },
+    {
+      "ts": "2026-05-21 15:59",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Blue Andeze Fresh Frozen Flower",
+      "before": "Out to Test",
+      "after": "Out to Test"
+    },
+    {
+      "ts": "2026-05-21 15:59",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Black Maple Fresh Frozen Flower",
+      "before": "Out to Test",
+      "after": "Out to Test"
+    },
+    {
+      "ts": "2026-05-21 15:59",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Rainbow Guava Fresh Frozen Flower",
+      "before": "Out to Test",
+      "after": "Out to Test"
+    },
+    {
+      "ts": "2026-05-21 15:59",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Swampwater Fumez Fresh Frozen Flower",
+      "before": "Out to Test",
+      "after": "Out to Test"
+    },
+    {
+      "ts": "2026-05-21 15:59",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Papaya BX Fresh Frozen Flower",
+      "before": "Out to Test",
+      "after": "Out to Test"
+    },
+    {
+      "ts": "2026-05-21 15:59",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Applescotti - Smalls 14g",
+      "before": "Ready to Sell",
+      "after": "Ready to Sell"
+    },
+    {
+      "ts": "2026-05-21 15:59",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Mixed Bulk Trim",
+      "before": "Ready to Sell",
+      "after": "Ready to Sell"
+    },
+    {
+      "ts": "2026-05-21 15:59",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Applescotti - Smalls 14g",
+      "before": "Ready to Sell",
+      "after": "Ready to Sell"
+    },
+    {
+      "ts": "2026-05-21 15:59",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Gelato 41 x Jealousy - Pre Ground Flower 14g",
+      "before": "Ready to Sell",
+      "after": "Ready to Sell"
+    },
+    {
+      "ts": "2026-05-21 15:59",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Gelato 41 x Jealousy - Pre Ground Flower 14g",
+      "before": "Ready to Sell",
+      "after": "Ready to Sell"
+    },
+    {
+      "ts": "2026-05-21 15:59",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Heir Heads - Pre Ground Flower 7g",
+      "before": "Ready to Sell",
+      "after": "Ready to Sell"
+    },
+    {
+      "ts": "2026-05-21 15:59",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Heir Heads - Pre Ground Flower 7g",
+      "before": "Ready to Sell",
+      "after": "Ready to Sell"
+    },
+    {
+      "ts": "2026-05-21 15:58",
+      "user": "Drew",
+      "action": "Excel uploaded",
+      "item": "(file)",
+      "before": "Sheet1 → Packages (METRC raw, 77 items)",
+      "after": "+13 new pkgs, 32 updated, 3 archived"
+    },
+    {
+      "ts": "2026-05-21 15:58",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Mixed Bulk Trim",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-21 15:58",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Applescotti Bulk Flower - Smalls AL",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-21 15:58",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Alien Marker 3.5g",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-21 15:58",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Cape Cod Grow Lab - Pre Roll 1g - Blue Andeze",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-21 15:58",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Blue Andeze Fresh Frozen Flower",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-21 15:58",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Black Maple Fresh Frozen Flower",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-21 15:58",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Rainbow Guava Fresh Frozen Flower",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-21 15:58",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Swampwater Fumez Fresh Frozen Flower",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-21 15:58",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Papaya BX Fresh Frozen Flower",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-21 15:58",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Applescotti - Smalls 14g",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-21 15:58",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Applescotti - Smalls 14g",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-21 15:58",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Mixed Bulk Trim",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-21 15:58",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Gelato 41 x Jealousy - Pre Ground Flower 14g",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-21 15:58",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Gelato 41 x Jealousy - Pre Ground Flower 14g",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-21 15:58",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Heir Heads - Pre Ground Flower 7g",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-21 15:58",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Heir Heads - Pre Ground Flower 7g",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-19 19:39",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "2 items"
+    },
+    {
+      "ts": "2026-05-19 19:39",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Lions Breath 3.5g",
+      "before": "Ready to Sell",
+      "after": "Ready to Sell"
+    },
+    {
+      "ts": "2026-05-19 19:39",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "2 items"
+    },
+    {
+      "ts": "2026-05-19 19:39",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Lions Breath - Smalls 14g",
+      "before": "Ready to Sell",
+      "after": "Ready to Sell"
+    },
+    {
+      "ts": "2026-05-19 19:39",
+      "user": "Drew",
+      "action": "Excel uploaded",
+      "item": "(file)",
+      "before": "Sheet1 → Packages (METRC raw, 67 items)",
+      "after": "+2 new pkgs, 6 updated"
+    },
+    {
+      "ts": "2026-05-19 19:39",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Lions Breath 3.5g",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-19 19:39",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Lions Breath - Smalls 14g",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-15 19:58",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "2 items"
+    },
+    {
+      "ts": "2026-05-15 19:58",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Mixed Bulk Trim",
+      "before": "On Hold",
+      "after": "On Hold"
+    },
+    {
+      "ts": "2026-05-15 19:58",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "2 items"
+    },
+    {
+      "ts": "2026-05-15 19:58",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Mixed Bulk Trim",
+      "before": "Ready to Sell",
+      "after": "Ready to Sell"
+    },
+    {
+      "ts": "2026-05-15 19:58",
+      "user": "Drew",
+      "action": "Excel uploaded",
+      "item": "(file)",
+      "before": "Sheet1 → Packages (METRC raw, 65 items)",
+      "after": "+1 new pkgs, 3 archived"
+    },
+    {
+      "ts": "2026-05-15 19:58",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Mixed Bulk Trim",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-15 19:58",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Purple Push Pop Bulk Flower - AL",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-15 19:58",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Purple Push Pop Bulk Flower - PK",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-15 19:58",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Mixed Bulk Trim",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-15 19:54",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "2 items"
+    },
+    {
+      "ts": "2026-05-15 19:54",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Purple Push Pop Bulk Flower - AL",
+      "before": "Ready to Pack",
+      "after": "Ready to Pack"
+    },
+    {
+      "ts": "2026-05-15 19:54",
+      "user": "Drew",
+      "action": "Excel uploaded",
+      "item": "(file)",
+      "before": "Sheet1 → Packages (METRC raw, 67 items)",
+      "after": "4 updated"
+    },
+    {
+      "ts": "2026-05-15 14:37",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Purple Push Pop 3.5g||87.5",
+      "before": "—",
+      "after": "terps=3.176"
+    },
+    {
+      "ts": "2026-05-15 14:37",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Purple Push Pop 3.5g||87.5",
+      "before": "—",
+      "after": "terps=3.176"
+    },
+    {
+      "ts": "2026-05-15 14:37",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Purple Push Pop 3.5g||87.5",
+      "before": "—",
+      "after": "thca=25.59"
+    },
+    {
+      "ts": "2026-05-15 14:37",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Purple Push Pop 3.5g||87.5",
+      "before": "—",
+      "after": "thca=25.59"
+    },
+    {
+      "ts": "2026-05-15 14:37",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Purple Push Pop 3.5g||87.5",
+      "before": "—",
+      "after": "tac=28.34"
+    },
+    {
+      "ts": "2026-05-15 14:37",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Purple Push Pop 3.5g||87.5",
+      "before": "—",
+      "after": "tac=28.34"
+    },
+    {
+      "ts": "2026-05-15 14:08",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Blue Andeze - Smalls 7g||168",
+      "before": "—",
+      "after": "terps=2.08"
+    },
+    {
+      "ts": "2026-05-15 14:08",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Blue Andeze - Smalls 7g||168",
+      "before": "—",
+      "after": "terps=2.08"
+    },
+    {
+      "ts": "2026-05-15 14:08",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Blue Andeze - Smalls 7g||175",
+      "before": "—",
+      "after": "terps=2.08"
+    },
+    {
+      "ts": "2026-05-15 14:08",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Blue Andeze - Smalls 7g||175",
+      "before": "—",
+      "after": "terps=2.08"
+    },
+    {
+      "ts": "2026-05-15 14:08",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Blue Andeze - Smalls 14g||280",
+      "before": "—",
+      "after": "terps=2.08"
+    },
+    {
+      "ts": "2026-05-15 14:08",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Blue Andeze - Smalls 14g||280",
+      "before": "—",
+      "after": "terps=2.08"
+    },
+    {
+      "ts": "2026-05-15 14:08",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Blue Andeze - Smalls 7g||168",
+      "before": "—",
+      "after": "thca=21.32"
+    },
+    {
+      "ts": "2026-05-15 14:08",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Blue Andeze - Smalls 7g||168",
+      "before": "—",
+      "after": "thca=21.32"
+    },
+    {
+      "ts": "2026-05-15 14:08",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Blue Andeze - Smalls 14g||280",
+      "before": "—",
+      "after": "thca=21.32"
+    },
+    {
+      "ts": "2026-05-15 14:08",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Blue Andeze - Smalls 14g||280",
+      "before": "—",
+      "after": "thca=21.32"
+    },
+    {
+      "ts": "2026-05-15 14:08",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Blue Andeze - Smalls 7g||175",
+      "before": "—",
+      "after": "thca=21.32"
+    },
+    {
+      "ts": "2026-05-15 14:08",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Blue Andeze - Smalls 7g||175",
+      "before": "—",
+      "after": "thca=21.32"
+    },
+    {
+      "ts": "2026-05-15 14:08",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Blue Andeze - Smalls 7g||175",
+      "before": "—",
+      "after": "tac=23.58"
+    },
+    {
+      "ts": "2026-05-15 14:08",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Blue Andeze - Smalls 7g||175",
+      "before": "—",
+      "after": "tac=23.58"
+    },
+    {
+      "ts": "2026-05-15 14:08",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Blue Andeze - Smalls 7g||168",
+      "before": "—",
+      "after": "tac=23.58"
+    },
+    {
+      "ts": "2026-05-15 14:08",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Blue Andeze - Smalls 7g||168",
+      "before": "—",
+      "after": "tac=23.58"
+    },
+    {
+      "ts": "2026-05-15 14:08",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Blue Andeze - Smalls 14g||280",
+      "before": "—",
+      "after": "tac=23.58"
+    },
+    {
+      "ts": "2026-05-15 14:08",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Blue Andeze - Smalls 14g||280",
+      "before": "—",
+      "after": "tac=23.58"
+    },
+    {
+      "ts": "2026-05-15 14:07",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Purple Push Pop - Smalls 14g||112",
+      "before": "—",
+      "after": "terps=2.26"
+    },
+    {
+      "ts": "2026-05-15 14:06",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Purple Push Pop - Smalls 14g||112",
+      "before": "—",
+      "after": "terps=2.26"
+    },
+    {
+      "ts": "2026-05-15 14:06",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Purple Push Pop - Smalls 14g||112",
+      "before": "—",
+      "after": "terps=2.2"
+    },
+    {
+      "ts": "2026-05-15 14:06",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Purple Push Pop - Smalls 14g||112",
+      "before": "—",
+      "after": "terps=2"
+    },
+    {
+      "ts": "2026-05-15 14:06",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Purple Push Pop - Smalls 14g||112",
+      "before": "—",
+      "after": "terps=2"
+    },
+    {
+      "ts": "2026-05-15 14:06",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Purple Push Pop - Smalls 14g||280",
+      "before": "—",
+      "after": "terps=2.26"
+    },
+    {
+      "ts": "2026-05-15 14:06",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Purple Push Pop - Smalls 14g||280",
+      "before": "—",
+      "after": "terps=2.26"
+    },
+    {
+      "ts": "2026-05-15 14:06",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Purple Push Pop - Smalls 14g||280",
+      "before": "—",
+      "after": "terps=2.2"
+    },
+    {
+      "ts": "2026-05-15 14:06",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Purple Push Pop - Smalls 14g||280",
+      "before": "—",
+      "after": "terps=2"
+    },
+    {
+      "ts": "2026-05-15 14:06",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Purple Push Pop - Smalls 14g||280",
+      "before": "—",
+      "after": "terps=2"
+    },
+    {
+      "ts": "2026-05-15 14:06",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Purple Push Pop - Smalls 14g||280",
+      "before": "—",
+      "after": "tac=27.61"
+    },
+    {
+      "ts": "2026-05-15 14:06",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Purple Push Pop - Smalls 14g||280",
+      "before": "—",
+      "after": "tac=27.61"
+    },
+    {
+      "ts": "2026-05-15 14:06",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Purple Push Pop - Smalls 14g||112",
+      "before": "—",
+      "after": "tac=27.61"
+    },
+    {
+      "ts": "2026-05-15 14:06",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Purple Push Pop - Smalls 14g||112",
+      "before": "—",
+      "after": "tac=27.61"
+    },
+    {
+      "ts": "2026-05-15 14:06",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Blue Andeze - Smalls 14g||280",
+      "before": "—",
+      "after": "tac="
+    },
+    {
+      "ts": "2026-05-15 14:06",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Blue Andeze - Smalls 14g||280",
+      "before": "—",
+      "after": "tac="
+    },
+    {
+      "ts": "2026-05-15 14:06",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Purple Push Pop - Smalls 14g||112",
+      "before": "—",
+      "after": "thca=24.71"
+    },
+    {
+      "ts": "2026-05-15 14:06",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Purple Push Pop - Smalls 14g||112",
+      "before": "—",
+      "after": "thca=24.71"
+    },
+    {
+      "ts": "2026-05-15 14:06",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Purple Push Pop - Smalls 14g||280",
+      "before": "—",
+      "after": "thca=24.71"
+    },
+    {
+      "ts": "2026-05-15 14:06",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Purple Push Pop - Smalls 14g||280",
+      "before": "—",
+      "after": "thca=24.71"
+    },
+    {
+      "ts": "2026-05-15 14:05",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Blue Andeze - Smalls 14g||280",
+      "before": "—",
+      "after": "tac=27.61"
+    },
+    {
+      "ts": "2026-05-15 14:05",
+      "user": "Drew",
+      "action": "Lab data updated",
+      "item": "Blue Andeze - Smalls 14g||280",
+      "before": "—",
+      "after": "tac=27.61"
+    },
+    {
+      "ts": "2026-05-15 13:42",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "1 items"
+    },
+    {
+      "ts": "2026-05-15 13:42",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Lions Breath Bulk Trim",
+      "before": "On Hold",
+      "after": "On Hold"
+    },
+    {
+      "ts": "2026-05-15 13:42",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "1 items"
+    },
+    {
+      "ts": "2026-05-15 13:42",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Lions Breath Bulk Trim",
+      "before": "Out to Test",
+      "after": "Out to Test"
+    },
+    {
+      "ts": "2026-05-15 13:37",
+      "user": "Dan",
+      "action": "Product image uploaded",
+      "item": "Purple Push Pop / CCGL Packaged Flower",
+      "before": "—",
+      "after": "Assets/products/purple-push-pop-ccgl-packaged-flower.jpg"
+    },
+    {
+      "ts": "2026-05-15 12:29",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "7 items"
+    },
+    {
+      "ts": "2026-05-15 12:29",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Purple Push Pop Bulk Flower - AL",
+      "before": "On Hold",
+      "after": "On Hold"
+    },
+    {
+      "ts": "2026-05-14 20:15",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "7 items"
+    },
+    {
+      "ts": "2026-05-14 20:15",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Purple Push Pop - Smalls 14g",
+      "before": "Ready to Sell",
+      "after": "Ready to Sell"
+    },
+    {
+      "ts": "2026-05-14 20:12",
+      "user": "Drew",
+      "action": "Excel uploaded",
+      "item": "(file)",
+      "before": "Sheet1 → Packages (METRC raw, 67 items)",
+      "after": "no changes (67 pkgs + 0 harvests scanned)"
+    },
+    {
+      "ts": "2026-05-14 20:10",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "7 items"
+    },
+    {
+      "ts": "2026-05-14 20:10",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Purple Push Pop - Smalls 14g",
+      "before": "Ready to Sell",
+      "after": "Ready to Sell"
+    },
+    {
+      "ts": "2026-05-14 20:10",
+      "user": "Drew",
+      "action": "Excel uploaded",
+      "item": "(file)",
+      "before": "Sheet1 → Packages (METRC raw, 67 items)",
+      "after": "+1 new pkgs, 4 updated"
+    },
+    {
+      "ts": "2026-05-14 20:10",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Purple Push Pop - Smalls 14g",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-14 20:01",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "7 items"
+    },
+    {
+      "ts": "2026-05-14 20:01",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Purple Push Pop 3.5g",
+      "before": "Ready to Sell",
+      "after": "Ready to Sell"
+    },
+    {
+      "ts": "2026-05-14 20:01",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "7 items"
+    },
+    {
+      "ts": "2026-05-14 20:01",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Blue Andeze Bulk Trim",
+      "before": "Needs Test",
+      "after": "Needs Test"
+    },
+    {
+      "ts": "2026-05-14 20:01",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "7 items"
+    },
+    {
+      "ts": "2026-05-14 20:01",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Blue Andeze Bulk Flower - PK",
+      "before": "Needs Test",
+      "after": "Needs Test"
+    },
+    {
+      "ts": "2026-05-14 20:01",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "7 items"
+    },
+    {
+      "ts": "2026-05-14 20:01",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Blue Andeze Bulk Flower - Smalls AL",
+      "before": "Needs Test",
+      "after": "Needs Test"
+    },
+    {
+      "ts": "2026-05-14 20:01",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "7 items"
+    },
+    {
+      "ts": "2026-05-14 20:01",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Galactic Banana Bulk Trim",
+      "before": "Needs Test",
+      "after": "Needs Test"
+    },
+    {
+      "ts": "2026-05-14 20:00",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "7 items"
+    },
+    {
+      "ts": "2026-05-14 20:00",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Purple Push Pop - Smalls 14g",
+      "before": "Needs Test",
+      "after": "Needs Test"
+    },
+    {
+      "ts": "2026-05-14 20:00",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "7 items"
+    },
+    {
+      "ts": "2026-05-14 20:00",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Galactic Banana Bulk Flower - PR",
+      "before": "Needs Test",
+      "after": "Needs Test"
+    },
+    {
+      "ts": "2026-05-14 20:00",
+      "user": "Drew",
+      "action": "Raw priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "top: 041526LCSF2H09"
+    },
+    {
+      "ts": "2026-05-14 20:00",
+      "user": "Drew",
+      "action": "Excel uploaded",
+      "item": "(file)",
+      "before": "Sheet1 → Packages (METRC raw, 66 items)",
+      "after": "+7 new pkgs, 2 updated"
+    },
+    {
+      "ts": "2026-05-14 20:00",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Purple Push Pop 3.5g",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-14 20:00",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Blue Andeze Bulk Trim",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-14 20:00",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Blue Andeze Bulk Flower - PK",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-14 20:00",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Blue Andeze Bulk Flower - Smalls AL",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-14 20:00",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Galactic Banana Bulk Trim",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-14 20:00",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Purple Push Pop - Smalls 14g",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-14 20:00",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Galactic Banana Bulk Flower - PR",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-14 20:00",
+      "user": "Drew",
+      "action": "Excel uploaded",
+      "item": "(file)",
+      "before": "Sheet1 → Harvests (3 batches)",
+      "after": "no changes (0 pkgs + 3 harvests scanned)"
+    },
+    {
+      "ts": "2026-05-14 20:00",
+      "user": "Drew",
+      "action": "Harvest archived (missing from upload)",
+      "item": "041526SUPF2H09",
+      "before": "Raw / Curing",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-14 20:00",
+      "user": "Drew",
+      "action": "Harvest archived (missing from upload)",
+      "item": "041726BBYF2H09",
+      "before": "Raw / Curing",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-14 20:00",
+      "user": "Drew",
+      "action": "Excel uploaded",
+      "item": "(file)",
+      "before": "Order Sheet CSV (66 rows)",
+      "after": "66 offsite"
+    },
+    {
+      "ts": "2026-05-13 18:57",
+      "user": "Drew",
+      "action": "Excel uploaded",
+      "item": "(file)",
+      "before": "Sheet1 → Packages (METRC raw, 59 items)",
+      "after": "no changes (59 pkgs + 0 harvests scanned)"
+    },
+    {
+      "ts": "2026-05-13 18:42",
+      "user": "Drew",
+      "action": "Excel uploaded",
+      "item": "(file)",
+      "before": "Sheet1 → Packages (METRC raw, 59 items)",
+      "after": "1 updated"
+    },
+    {
+      "ts": "2026-05-13 18:39",
+      "user": "Drew",
+      "action": "Excel uploaded",
+      "item": "(file)",
+      "before": "Sheet1 → Packages (METRC raw, 59 items)",
+      "after": "7 updated, 1 archived"
+    },
+    {
+      "ts": "2026-05-13 18:39",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Cape Cod Grow Lab - Pre Roll 1g - Blue Andeze",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-13 17:39",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "7 items"
+    },
+    {
+      "ts": "2026-05-13 17:39",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Purple Push Pop Bulk Trim - PK",
+      "before": "On Hold",
+      "after": "On Hold"
+    },
+    {
+      "ts": "2026-05-13 17:38",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "7 items"
+    },
+    {
+      "ts": "2026-05-13 17:38",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Purple Push Pop Bulk Flower - PK",
+      "before": "Ready to Pack",
+      "after": "Ready to Pack"
+    },
+    {
+      "ts": "2026-05-13 17:38",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "7 items"
+    },
+    {
+      "ts": "2026-05-13 17:38",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Lemon Cherry Sherbert Bulk Trim - PK",
+      "before": "On Hold",
+      "after": "On Hold"
+    },
+    {
+      "ts": "2026-05-13 17:37",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "7 items"
+    },
+    {
+      "ts": "2026-05-13 17:37",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Purple Push Pop Bulk Flower - PK",
+      "before": "On Hold",
+      "after": "On Hold"
+    },
+    {
+      "ts": "2026-05-13 17:37",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "7 items"
+    },
+    {
+      "ts": "2026-05-13 17:37",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Gelato 41 x Jealousy Bulk Trim - PK",
+      "before": "On Hold",
+      "after": "On Hold"
+    },
+    {
+      "ts": "2026-05-13 17:37",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "7 items"
+    },
+    {
+      "ts": "2026-05-13 17:37",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Lemon Cherry Sherbert Bulk Trim - PK",
+      "before": "On Hold",
+      "after": "On Hold"
+    },
+    {
+      "ts": "2026-05-13 17:37",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "7 items"
+    },
+    {
+      "ts": "2026-05-13 17:37",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Zowah Bulk Trim - PK",
+      "before": "On Hold",
+      "after": "On Hold"
+    },
+    {
+      "ts": "2026-05-13 17:37",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "8 items"
+    },
+    {
+      "ts": "2026-05-13 17:37",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Alien Marker Bulk Trim - PK",
+      "before": "On Hold",
+      "after": "On Hold"
+    },
+    {
+      "ts": "2026-05-13 17:37",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "8 items"
+    },
+    {
+      "ts": "2026-05-13 17:37",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Alien Marker Bulk Trim - PK",
+      "before": "Needs Review",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-13 17:37",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "9 items"
+    },
+    {
+      "ts": "2026-05-13 17:37",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Blue Andeze Bulk Flower - BM",
+      "before": "Ready to Sell",
+      "after": "Ready to Sell"
+    },
+    {
+      "ts": "2026-05-13 17:37",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "9 items"
+    },
+    {
+      "ts": "2026-05-13 17:37",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Blue Andeze - Smalls 7g",
+      "before": "Ready to Sell",
+      "after": "Ready to Sell"
+    },
+    {
+      "ts": "2026-05-13 17:36",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "9 items"
+    },
+    {
+      "ts": "2026-05-13 17:36",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Blue Andeze - Smalls 7g",
+      "before": "Ready to Sell",
+      "after": "Ready to Sell"
+    },
+    {
+      "ts": "2026-05-13 17:36",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "9 items"
+    },
+    {
+      "ts": "2026-05-13 17:36",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Blue Andeze - Smalls 14g",
+      "before": "Ready to Sell",
+      "after": "Ready to Sell"
+    },
+    {
+      "ts": "2026-05-13 17:36",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "9 items"
+    },
+    {
+      "ts": "2026-05-13 17:36",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Mixed Bulk Trim",
+      "before": "On Hold",
+      "after": "On Hold"
+    },
+    {
+      "ts": "2026-05-13 17:36",
+      "user": "Drew",
+      "action": "Excel uploaded",
+      "item": "(file)",
+      "before": "Order Sheet CSV (66 rows)",
+      "after": "66 offsite"
+    },
+    {
+      "ts": "2026-05-13 17:36",
+      "user": "Drew",
+      "action": "Excel uploaded",
+      "item": "(file)",
+      "before": "Sheet1 → Packages (METRC raw, 60 items)",
+      "after": "+5 new pkgs, 5 updated, 3 archived"
+    },
+    {
+      "ts": "2026-05-13 17:36",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Blue Andeze Bulk Flower - PK",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-13 17:36",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Zowah - Smalls 3.5g",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-13 17:36",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Mixed Bulk Trim",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-13 17:36",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Blue Andeze Bulk Flower - BM",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-13 17:36",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Blue Andeze - Smalls 7g",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-13 17:36",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Blue Andeze - Smalls 7g",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-13 17:36",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Blue Andeze - Smalls 14g",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-13 17:36",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Mixed Bulk Trim",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-13 17:35",
+      "user": "Drew",
+      "action": "Excel uploaded",
+      "item": "(file)",
+      "before": "Sheet1 → Harvests (5 batches)",
+      "after": "no changes (0 pkgs + 5 harvests scanned)"
+    },
+    {
+      "ts": "2026-05-13 13:13",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "10 items"
+    },
+    {
+      "ts": "2026-05-13 13:13",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Lions Breath Bulk Trim",
+      "before": "On Hold",
+      "after": "On Hold"
+    },
+    {
+      "ts": "2026-05-13 13:00",
+      "user": "Drew",
+      "action": "Raw priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "top: 041726BBYF2H09"
+    },
+    {
+      "ts": "2026-05-13 12:57",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "10 items"
+    },
+    {
+      "ts": "2026-05-13 12:57",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Lions Breath Bulk Trim - PK",
+      "before": "Needs Test",
+      "after": "Needs Test"
+    },
+    {
+      "ts": "2026-05-13 12:57",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "10 items"
+    },
+    {
+      "ts": "2026-05-13 12:57",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Lions Breath Bulk Flower - PK",
+      "before": "Out to Test",
+      "after": "Out to Test"
+    },
+    {
+      "ts": "2026-05-13 12:57",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "10 items"
+    },
+    {
+      "ts": "2026-05-13 12:57",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Lions Breath Bulk Trim",
+      "before": "Needs Test",
+      "after": "Needs Test"
+    },
+    {
+      "ts": "2026-05-13 12:57",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "10 items"
+    },
+    {
+      "ts": "2026-05-13 12:57",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Lions Breath Bulk Flower - PK",
+      "before": "Needs Test",
+      "after": "Needs Test"
+    },
+    {
+      "ts": "2026-05-13 12:40",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "10 items"
+    },
+    {
+      "ts": "2026-05-13 12:40",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Lions Breath Bulk Flower - PK",
+      "before": "Out to Test",
+      "after": "Out to Test"
+    },
+    {
+      "ts": "2026-05-13 12:39",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "10 items"
+    },
+    {
+      "ts": "2026-05-13 12:39",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Lions Breath Bulk Trim",
+      "before": "Out to Test",
+      "after": "Out to Test"
+    },
+    {
+      "ts": "2026-05-13 12:39",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "10 items"
+    },
+    {
+      "ts": "2026-05-13 12:39",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Lions Breath Bulk Trim - PK",
+      "before": "Out to Test",
+      "after": "Out to Test"
+    },
+    {
+      "ts": "2026-05-13 12:39",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "10 items"
+    },
+    {
+      "ts": "2026-05-13 12:39",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Lions Breath Bulk Flower - PR",
+      "before": "Out to Test",
+      "after": "Out to Test"
+    },
+    {
+      "ts": "2026-05-13 12:39",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "10 items"
+    },
+    {
+      "ts": "2026-05-13 12:39",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Purple Push Pop Bulk Flower - PK",
+      "before": "Out to Test",
+      "after": "Out to Test"
+    },
+    {
+      "ts": "2026-05-13 12:38",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "10 items"
+    },
+    {
+      "ts": "2026-05-13 12:38",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Purple Push Pop Bulk Trim - PK",
+      "before": "Needs Test",
+      "after": "Needs Test"
+    },
+    {
+      "ts": "2026-05-13 12:38",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "10 items"
+    },
+    {
+      "ts": "2026-05-13 12:38",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Purple Push Pop Bulk Trim - PK",
+      "before": "Out to Test",
+      "after": "Out to Test"
+    },
+    {
+      "ts": "2026-05-13 12:36",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "10 items"
+    },
+    {
+      "ts": "2026-05-13 12:36",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Blue Andeze Bulk Flower - PK",
+      "before": "Ready to Pack",
+      "after": "Ready to Pack"
+    },
+    {
+      "ts": "2026-05-13 12:36",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "9 items"
+    },
+    {
+      "ts": "2026-05-13 12:36",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Lions Breath Bulk Trim",
+      "before": "Ready to Pack",
+      "after": "Ready to Pack"
+    },
+    {
+      "ts": "2026-05-13 12:36",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "8 items"
+    },
+    {
+      "ts": "2026-05-13 12:36",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Purple Push Pop Bulk Flower - AL",
+      "before": "Ready to Pack",
+      "after": "Ready to Pack"
+    },
+    {
+      "ts": "2026-05-13 12:36",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "7 items"
+    },
+    {
+      "ts": "2026-05-13 12:36",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Purple Push Pop Bulk Flower - PK",
+      "before": "Ready to Pack",
+      "after": "Ready to Pack"
+    },
+    {
+      "ts": "2026-05-13 12:36",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "6 items"
+    },
+    {
+      "ts": "2026-05-13 12:36",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Applescotti Bulk Trim - PK",
+      "before": "Out to Test",
+      "after": "Out to Test"
+    },
+    {
+      "ts": "2026-05-13 12:36",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "6 items"
+    },
+    {
+      "ts": "2026-05-13 12:36",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Applescotti Bulk Flower - Smalls AL",
+      "before": "Out to Test",
+      "after": "Out to Test"
+    },
+    {
+      "ts": "2026-05-13 12:36",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "6 items"
+    },
+    {
+      "ts": "2026-05-13 12:36",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Heir Heads Bulk Trim - PK",
+      "before": "Out to Test",
+      "after": "Out to Test"
+    },
+    {
+      "ts": "2026-05-13 12:35",
+      "user": "Drew",
+      "action": "Excel uploaded",
+      "item": "(file)",
+      "before": "Sheet1 → Harvests (5 batches)",
+      "after": "2 harvests updated"
+    },
+    {
+      "ts": "2026-05-13 12:35",
+      "user": "Drew",
+      "action": "Harvest archived (missing from upload)",
+      "item": "041526HEHF2H09",
+      "before": "Raw / Curing",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-13 12:35",
+      "user": "Drew",
+      "action": "Excel uploaded",
+      "item": "(file)",
+      "before": "Sheet1 → Packages (METRC raw, 58 items)",
+      "after": "no changes (58 pkgs + 0 harvests scanned)"
+    },
+    {
+      "ts": "2026-05-13 12:26",
+      "user": "Drew",
+      "action": "Excel uploaded",
+      "item": "(file)",
+      "before": "Sheet1 → Packages (METRC raw, 58 items)",
+      "after": "+3 new pkgs, 5 updated, 1 archived"
+    },
+    {
+      "ts": "2026-05-13 12:26",
+      "user": "Drew",
+      "action": "Archived (missing from upload)",
+      "item": "Cape Cod Grow Labs - Pre Roll 1g - Cape White Shark",
+      "before": "active",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-13 12:26",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Applescotti Bulk Trim - PK",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-13 12:26",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Applescotti Bulk Flower - Smalls AL",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-13 12:26",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Heir Heads Bulk Trim - PK",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-12 13:04",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "7 items"
+    },
+    {
+      "ts": "2026-05-12 13:04",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Galactic Banana Bulk Trim",
+      "before": "On Hold",
+      "after": "On Hold"
+    },
+    {
+      "ts": "2026-05-12 13:03",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "7 items"
+    },
+    {
+      "ts": "2026-05-12 13:03",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Lemon Cherry Sherbert Bulk Trim - PK",
+      "before": "Ready to Pack",
+      "after": "Ready to Pack"
+    },
+    {
+      "ts": "2026-05-12 13:03",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "6 items"
+    },
+    {
+      "ts": "2026-05-12 13:03",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Purple Push Pop Bulk Trim - PK",
+      "before": "Ready to Pack",
+      "after": "Ready to Pack"
+    },
+    {
+      "ts": "2026-05-12 13:03",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "5 items"
+    },
+    {
+      "ts": "2026-05-12 13:03",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Galactic Banana Bulk Trim",
+      "before": "Ready to Pack",
+      "after": "Ready to Pack"
+    },
+    {
+      "ts": "2026-05-12 13:03",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "4 items"
+    },
+    {
+      "ts": "2026-05-12 13:03",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Gelato 41 x Jealousy Bulk Trim - PK",
+      "before": "Ready to Pack",
+      "after": "Ready to Pack"
+    },
+    {
+      "ts": "2026-05-12 13:03",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "3 items"
+    },
+    {
+      "ts": "2026-05-12 13:03",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Lemon Cherry Sherbert Bulk Trim - PK",
+      "before": "Ready to Pack",
+      "after": "Ready to Pack"
+    },
+    {
+      "ts": "2026-05-12 13:03",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "2 items"
+    },
+    {
+      "ts": "2026-05-12 13:03",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Zowah Bulk Trim - PK",
+      "before": "Ready to Pack",
+      "after": "Ready to Pack"
+    },
+    {
+      "ts": "2026-05-12 13:03",
+      "user": "Drew",
+      "action": "Packaging priority reordered",
+      "item": "(queue)",
+      "before": "—",
+      "after": "1 items"
+    },
+    {
+      "ts": "2026-05-12 13:03",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Alien Marker Bulk Trim - PK",
+      "before": "Ready to Pack",
+      "after": "Ready to Pack"
+    },
+    {
+      "ts": "2026-05-12 13:02",
+      "user": "Drew",
+      "action": "Excel uploaded",
+      "item": "(file)",
+      "before": "Sheet1 → Packages (METRC raw, 56 items)",
+      "after": "3 updated"
+    },
+    {
+      "ts": "2026-05-11 19:41",
+      "user": "Drew",
+      "action": "Excel uploaded",
+      "item": "(file)",
+      "before": "Sheet1 → Harvests (6 batches)",
+      "after": "no changes (0 pkgs + 6 harvests scanned)"
+    },
+    {
+      "ts": "2026-05-11 19:41",
+      "user": "Drew",
+      "action": "Excel uploaded",
+      "item": "(file)",
+      "before": "Sheet1 → Packages (METRC raw, 56 items)",
+      "after": "8 updated"
+    },
+    {
+      "ts": "2026-05-08 20:30",
+      "user": "Dan",
+      "action": "Pricing case size updated",
+      "item": "Live Rosin",
+      "before": "25 units/case",
+      "after": "15 units/case"
+    },
+    {
+      "ts": "2026-05-08 20:13",
+      "user": "Dan",
+      "action": "Product image uploaded",
+      "item": "Zowah / Alchemy Packaged Flower",
+      "before": "—",
+      "after": "Assets/products/zowah-alchemy-packaged-flower.jpg"
+    },
+    {
+      "ts": "2026-05-08 20:11",
+      "user": "Dan",
+      "action": "Product image uploaded",
+      "item": "Galactic Banana / Alchemy Packaged Flower",
+      "before": "—",
+      "after": "Assets/products/galactic-banana-alchemy-packaged-flower.jpg"
+    },
+    {
+      "ts": "2026-05-08 20:09",
+      "user": "Dan",
+      "action": "Product image uploaded",
+      "item": "Sticky Ricky X Grandi Candy / Alchemy Extracts",
+      "before": "—",
+      "after": "Assets/products/sticky-ricky-x-grandi-candy-alchemy-extracts.png"
+    },
+    {
+      "ts": "2026-05-08 20:07",
+      "user": "Dan",
+      "action": "Product image uploaded",
+      "item": "Hellcat / CCGL Vapes",
+      "before": "—",
+      "after": "Assets/products/hellcat-ccgl-vapes.png"
+    },
+    {
+      "ts": "2026-05-08 20:05",
+      "user": "Dan",
+      "action": "Product image uploaded",
+      "item": "Astro Candy  / CCGL Vapes",
+      "before": "—",
+      "after": "Assets/products/astro-candy-ccgl-vapes.png"
+    },
+    {
+      "ts": "2026-05-08 20:03",
+      "user": "Dan",
+      "action": "Product image uploaded",
+      "item": "Alien Marker / CCGL Vapes",
+      "before": "—",
+      "after": "Assets/products/alien-marker-ccgl-vapes.png"
+    },
+    {
+      "ts": "2026-05-08 20:01",
+      "user": "Dan",
+      "action": "Product image uploaded",
+      "item": "Purple Push Pop / CCGL Extracts",
+      "before": "—",
+      "after": "Assets/products/purple-push-pop-ccgl-extracts.jpg"
+    },
+    {
+      "ts": "2026-05-08 20:00",
+      "user": "Dan",
+      "action": "Product image uploaded",
+      "item": "Alien Marker / CCGL Extracts",
+      "before": "—",
+      "after": "Assets/products/alien-marker-ccgl-extracts.jpg"
+    },
+    {
+      "ts": "2026-05-08 19:58",
+      "user": "Dan",
+      "action": "Product image uploaded",
+      "item": "Lions Breath / CCGL Prerolls",
+      "before": "—",
+      "after": "Assets/products/lions-breath-ccgl-prerolls.jpg"
+    },
+    {
+      "ts": "2026-05-08 19:56",
+      "user": "Dan",
+      "action": "Excel uploaded",
+      "item": "(file)",
+      "before": "Sheet1 → Harvests (6 batches)",
+      "after": "no changes (0 pkgs + 6 harvests scanned)"
+    },
+    {
+      "ts": "2026-05-08 19:56",
+      "user": "Dan",
+      "action": "Harvest archived (missing from upload)",
+      "item": "022626PPPF1H09",
+      "before": "Raw / Curing",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-08 19:56",
+      "user": "Dan",
+      "action": "Harvest archived (missing from upload)",
+      "item": "041626LIBF2H09",
+      "before": "Raw / Curing",
+      "after": "archived"
+    },
+    {
+      "ts": "2026-05-08 19:55",
+      "user": "Dan",
+      "action": "Product image uploaded",
+      "item": "Cape White Shark / CCGL Prerolls",
+      "before": "—",
+      "after": "Assets/products/cape-white-shark-ccgl-prerolls.jpg"
+    },
+    {
+      "ts": "2026-05-08 19:53",
+      "user": "Dan",
+      "action": "Product image uploaded",
+      "item": "Blue Andeze / CCGL Prerolls",
+      "before": "—",
+      "after": "Assets/products/blue-andeze-ccgl-prerolls.jpg"
+    },
+    {
+      "ts": "2026-05-08 19:51",
+      "user": "Dan",
+      "action": "Product image uploaded",
+      "item": "Lemon Cherry Sherbert / CCGL Packaged Flower",
+      "before": "—",
+      "after": "Assets/products/lemon-cherry-sherbert-ccgl-packaged-flower.jpg"
+    },
+    {
+      "ts": "2026-05-08 19:49",
+      "user": "Dan",
+      "action": "Product image uploaded",
+      "item": "Cape White Shark / CCGL Packaged Flower",
+      "before": "—",
+      "after": "Assets/products/cape-white-shark-ccgl-packaged-flower.jpg"
+    },
+    {
+      "ts": "2026-05-08 19:43",
+      "user": "Dan",
+      "action": "Product image uploaded",
+      "item": "Alien Marker / CCGL Packaged Flower",
+      "before": "—",
+      "after": "Assets/products/alien-marker-ccgl-packaged-flower.jpg"
+    },
+    {
+      "ts": "2026-05-08 19:38",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Lions Breath Bulk Flower - PK",
+      "before": "Needs Test",
+      "after": "Needs Test"
+    },
+    {
+      "ts": "2026-05-08 19:38",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Lions Breath Bulk Trim",
+      "before": "Needs Test",
+      "after": "Needs Test"
+    },
+    {
+      "ts": "2026-05-08 19:38",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Lions Breath Bulk Trim - PK",
+      "before": "Needs Test",
+      "after": "Needs Test"
+    },
+    {
+      "ts": "2026-05-08 19:38",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Lions Breath Bulk Flower - PR",
+      "before": "Needs Test",
+      "after": "Needs Test"
+    },
+    {
+      "ts": "2026-05-08 19:38",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Purple Push Pop Bulk Flower - PK",
+      "before": "Needs Test",
+      "after": "Needs Test"
+    },
+    {
+      "ts": "2026-05-08 19:38",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Purple Push Pop Bulk Flower - PK",
+      "before": "Needs Test",
+      "after": "Needs Test"
+    },
+    {
+      "ts": "2026-05-08 19:38",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Purple Push Pop Bulk Trim",
+      "before": "Needs Test",
+      "after": "Needs Test"
+    },
+    {
+      "ts": "2026-05-08 19:38",
+      "user": "Drew",
+      "action": "Status changed",
+      "item": "Purple Push Pop Bulk Trim - PK",
+      "before": "Needs Test",
+      "after": "Needs Test"
+    },
+    {
+      "ts": "2026-05-08 19:37",
+      "user": "Drew",
+      "action": "Excel uploaded",
+      "item": "(file)",
+      "before": "Sheet1 → Harvests (6 batches)",
+      "after": "no changes (0 pkgs + 6 harvests scanned)"
+    },
+    {
+      "ts": "2026-05-08 19:37",
+      "user": "Drew",
+      "action": "Excel uploaded",
+      "item": "(file)",
+      "before": "Sheet1 → Harvests (6 batches)",
+      "after": "1 harvests updated"
+    },
+    {
+      "ts": "2026-05-08 19:37",
+      "user": "Drew",
+      "action": "Excel uploaded",
+      "item": "(file)",
+      "before": "Sheet1 → Packages (METRC raw, 56 items)",
+      "after": "+8 new pkgs"
+    },
+    {
+      "ts": "2026-05-08 19:37",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Lions Breath Bulk Flower - PK",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-08 19:37",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Lions Breath Bulk Trim",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-08 19:37",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Lions Breath Bulk Trim - PK",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-08 19:37",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Lions Breath Bulk Flower - PR",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-08 19:37",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Purple Push Pop Bulk Flower - PK",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-08 19:37",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Purple Push Pop Bulk Flower - PK",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-08 19:37",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Purple Push Pop Bulk Trim",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-08 19:37",
+      "user": "Drew",
+      "action": "New item from upload",
+      "item": "Purple Push Pop Bulk Trim - PK",
+      "before": "(not in prior file)",
+      "after": "Needs Review"
+    },
+    {
+      "ts": "2026-05-08 17:06",
+      "user": "Dan",
+      "action": "Status changed",
+      "item": "Cape Cod Grow Labs - Pre Roll 1g - Cape White Shark",
+      "before": "On Hold",
+      "after": "On Hold"
+    },
+    {
+      "ts": "2026-05-08 17:06",
+      "user": "Dan",
+      "action": "Status changed",
+      "item": "Cape Cod Grow Lab - Pre Roll 1g - Blue Andeze",
+      "before": "On Hold",
+      "after": "On Hold"
+    },
+    {
+      "ts": "2026-05-08 16:33",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Live Rosin - Purple Push Pop- 1g",
+      "before": "—",
+      "after": "terps=8.30"
+    },
+    {
+      "ts": "2026-05-08 16:33",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Live Rosin - Purple Push Pop- 1g",
+      "before": "—",
+      "after": "terps=8.30"
+    },
+    {
+      "ts": "2026-05-08 16:33",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Live Rosin - Purple Push Pop- 1g",
+      "before": "—",
+      "after": "terps=8.3"
+    },
+    {
+      "ts": "2026-05-08 16:33",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Live Rosin - Purple Push Pop- 1g",
+      "before": "—",
+      "after": "terps=8"
+    },
+    {
+      "ts": "2026-05-08 16:33",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Live Rosin - Purple Push Pop- 1g",
+      "before": "—",
+      "after": "terps=8"
+    },
+    {
+      "ts": "2026-05-08 16:33",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Live Rosin - Purple Push Pop- 1g",
+      "before": "—",
+      "after": "thca=79.27"
+    },
+    {
+      "ts": "2026-05-08 16:33",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Live Rosin - Purple Push Pop- 1g",
+      "before": "—",
+      "after": "thca=79.27"
+    },
+    {
+      "ts": "2026-05-08 16:33",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Live Rosin - Purple Push Pop- 1g",
+      "before": "—",
+      "after": "thca=79.2"
+    },
+    {
+      "ts": "2026-05-08 16:33",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Live Rosin - Purple Push Pop- 1g",
+      "before": "—",
+      "after": "thca=79"
+    },
+    {
+      "ts": "2026-05-08 16:33",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Live Rosin - Purple Push Pop- 1g",
+      "before": "—",
+      "after": "thca=79"
+    },
+    {
+      "ts": "2026-05-08 16:33",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Live Rosin - Purple Push Pop- 1g",
+      "before": "—",
+      "after": "thca=7"
+    },
+    {
+      "ts": "2026-05-08 16:33",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Live Rosin - Purple Push Pop- 1g",
+      "before": "—",
+      "after": "tac=83.17"
+    },
+    {
+      "ts": "2026-05-08 16:33",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Live Rosin - Purple Push Pop- 1g",
+      "before": "—",
+      "after": "tac=83.17"
+    },
+    {
+      "ts": "2026-05-08 16:33",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Live Rosin - Purple Push Pop- 1g",
+      "before": "—",
+      "after": "tac=83.1"
+    },
+    {
+      "ts": "2026-05-08 16:33",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Live Rosin - Purple Push Pop- 1g",
+      "before": "—",
+      "after": "tac=83"
+    },
+    {
+      "ts": "2026-05-08 16:33",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Live Rosin - Purple Push Pop- 1g",
+      "before": "—",
+      "after": "tac=83"
+    },
+    {
+      "ts": "2026-05-08 16:33",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Live Rosin - Purple Push Pop- 1g",
+      "before": "—",
+      "after": "tac=8"
+    },
+    {
+      "ts": "2026-05-08 16:30",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Astro Candy - 0.5g",
+      "before": "—",
+      "after": "subtype=Live Rosin Vape Cart"
+    },
+    {
+      "ts": "2026-05-08 16:30",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Astro Candy - 0.5g",
+      "before": "—",
+      "after": "subtype=Live Rosin Vape Cart"
+    },
+    {
+      "ts": "2026-05-08 16:30",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Alien Marker - 0.5",
+      "before": "—",
+      "after": "subtype=Live Rosin Vape Cart"
+    },
+    {
+      "ts": "2026-05-08 16:30",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Alien Marker - 0.5",
+      "before": "—",
+      "after": "subtype=Live Rosin Vape Cart"
+    },
+    {
+      "ts": "2026-05-08 16:30",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Alien Marker - 0.5",
+      "before": "—",
+      "after": "subtype=Live Rosin Vap Cart"
+    },
+    {
+      "ts": "2026-05-08 16:30",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Alien Marker - 0.5",
+      "before": "—",
+      "after": "subtype=Live Rosin Va Cart"
+    },
+    {
+      "ts": "2026-05-08 16:30",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Alien Marker - 0.5",
+      "before": "—",
+      "after": "subtype=Live Rosin V Cart"
+    },
+    {
+      "ts": "2026-05-08 16:30",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Alien Marker - 0.5",
+      "before": "—",
+      "after": "subtype=Live Rosin  Cart"
+    },
+    {
+      "ts": "2026-05-08 16:30",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Alien Marker - 0.5",
+      "before": "—",
+      "after": "subtype=Live Rosin Cart"
+    },
+    {
+      "ts": "2026-05-08 16:30",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Alien Marker - 0.5",
+      "before": "—",
+      "after": "subtype=Live Rosi Cart"
+    },
+    {
+      "ts": "2026-05-08 16:30",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Alien Marker - 0.5",
+      "before": "—",
+      "after": "subtype=Live Ros Cart"
+    },
+    {
+      "ts": "2026-05-08 16:30",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Alien Marker - 0.5",
+      "before": "—",
+      "after": "subtype=Live Ro Cart"
+    },
+    {
+      "ts": "2026-05-08 16:30",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Alien Marker - 0.5",
+      "before": "—",
+      "after": "subtype=Live R Cart"
+    },
+    {
+      "ts": "2026-05-08 16:30",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Alien Marker - 0.5",
+      "before": "—",
+      "after": "subtype=Live  Cart"
+    },
+    {
+      "ts": "2026-05-08 16:30",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Alien Marker - 0.5",
+      "before": "—",
+      "after": "subtype=Live Cart"
+    },
+    {
+      "ts": "2026-05-08 16:30",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Alien Marker - 0.5",
+      "before": "—",
+      "after": "subtype=Liv Cart"
+    },
+    {
+      "ts": "2026-05-08 16:30",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Alien Marker - 0.5",
+      "before": "—",
+      "after": "subtype=Li Cart"
+    },
+    {
+      "ts": "2026-05-08 16:30",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Alien Marker - 0.5",
+      "before": "—",
+      "after": "subtype=L Cart"
+    },
+    {
+      "ts": "2026-05-08 16:19",
+      "user": "Dan",
+      "action": "Pricing case size updated",
+      "item": "Live Sugar",
+      "before": "— units/case",
+      "after": "25 units/case"
+    },
+    {
+      "ts": "2026-05-08 16:19",
+      "user": "Dan",
+      "action": "Pricing case size updated",
+      "item": "Live Rosin",
+      "before": "— units/case",
+      "after": "25 units/case"
+    },
+    {
+      "ts": "2026-05-08 16:19",
+      "user": "Dan",
+      "action": "Pricing case size updated",
+      "item": "Vape Cart 0.5g",
+      "before": "— units/case",
+      "after": "25 units/case"
+    },
+    {
+      "ts": "2026-05-08 16:19",
+      "user": "Dan",
+      "action": "Pricing case size updated",
+      "item": "Cured Resin Vape",
+      "before": "— units/case",
+      "after": "25 units/case"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Astro Candy - 0.5g",
+      "before": "—",
+      "after": "notes=NEW!! Sweetgrass Collab"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Astro Candy - 0.5g",
+      "before": "—",
+      "after": "notes=NEW!! Sweetgrass Collab"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Astro Candy - 0.5g",
+      "before": "—",
+      "after": "notes=NEW!! Sweetgrass Collab "
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Hellcat Cured Resin Disposable Vape 1G",
+      "before": "—",
+      "after": "notes=Harbor House Collab"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Hellcat Cured Resin Disposable Vape 1G",
+      "before": "—",
+      "after": "notes=Harbor House Collab"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Hellcat Cured Resin Disposable Vape 1G",
+      "before": "—",
+      "after": "notes=Harbor House Colla"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Hellcat Cured Resin Disposable Vape 1G",
+      "before": "—",
+      "after": "notes=Harbor House Coll"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Hellcat Cured Resin Disposable Vape 1G",
+      "before": "—",
+      "after": "notes=Harbor House Col"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Hellcat Cured Resin Disposable Vape 1G",
+      "before": "—",
+      "after": "notes=Harbor House Co"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Hellcat Cured Resin Disposable Vape 1G",
+      "before": "—",
+      "after": "notes=Harbor House C"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Hellcat Cured Resin Disposable Vape 1G",
+      "before": "—",
+      "after": "notes=Harbor House "
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Hellcat Cured Resin Disposable Vape 1G",
+      "before": "—",
+      "after": "notes=Harbor House"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Hellcat Cured Resin Disposable Vape 1G",
+      "before": "—",
+      "after": "notes=Harbor Hous"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Hellcat Cured Resin Disposable Vape 1G",
+      "before": "—",
+      "after": "notes=Harbor Hou"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Hellcat Cured Resin Disposable Vape 1G",
+      "before": "—",
+      "after": "notes=Harbor Ho"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Hellcat Cured Resin Disposable Vape 1G",
+      "before": "—",
+      "after": "notes=Harbor H"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Hellcat Cured Resin Disposable Vape 1G",
+      "before": "—",
+      "after": "notes=Harbor "
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Hellcat Cured Resin Disposable Vape 1G",
+      "before": "—",
+      "after": "notes=Harbor"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Hellcat Cured Resin Disposable Vape 1G",
+      "before": "—",
+      "after": "notes=Harbo"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Hellcat Cured Resin Disposable Vape 1G",
+      "before": "—",
+      "after": "notes=Harb"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Hellcat Cured Resin Disposable Vape 1G",
+      "before": "—",
+      "after": "notes=Har"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Hellcat Cured Resin Disposable Vape 1G",
+      "before": "—",
+      "after": "notes=Ha"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Hellcat Cured Resin Disposable Vape 1G",
+      "before": "—",
+      "after": "notes=H"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Alien Marker - 0.5",
+      "before": "—",
+      "after": "notes=Sweetgrass Collab"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Alien Marker - 0.5",
+      "before": "—",
+      "after": "notes=Sweetgrass Collab"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Alien Marker - 0.5",
+      "before": "—",
+      "after": "notes=Sweetgrass Colla"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Alien Marker - 0.5",
+      "before": "—",
+      "after": "notes=Sweetgrass Coll"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Alien Marker - 0.5",
+      "before": "—",
+      "after": "notes=Sweetgrass Col"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Alien Marker - 0.5",
+      "before": "—",
+      "after": "notes=Sweetgrass Co"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Alien Marker - 0.5",
+      "before": "—",
+      "after": "notes=Sweetgrass C"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Alien Marker - 0.5",
+      "before": "—",
+      "after": "notes=Sweetgrass "
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Alien Marker - 0.5",
+      "before": "—",
+      "after": "notes=Sweetgrass"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Alien Marker - 0.5",
+      "before": "—",
+      "after": "notes=Sweetgras"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Alien Marker - 0.5",
+      "before": "—",
+      "after": "notes=Sweetgra"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Alien Marker - 0.5",
+      "before": "—",
+      "after": "notes=Sweetgr"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Alien Marker - 0.5",
+      "before": "—",
+      "after": "notes=Sweetg"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Alien Marker - 0.5",
+      "before": "—",
+      "after": "notes=Sweet"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Alien Marker - 0.5",
+      "before": "—",
+      "after": "notes=Swee"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Alien Marker - 0.5",
+      "before": "—",
+      "after": "notes=Swe"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Alien Marker - 0.5",
+      "before": "—",
+      "after": "notes=Sw"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Alien Marker - 0.5",
+      "before": "—",
+      "after": "notes=S"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Astro Candy - 0.5g",
+      "before": "—",
+      "after": "notes=NEW!! Sweetgrass Collab - A blend of some of our favorite rosin!                                                                    (Alien Marker,  Galactic Banana, Purple Push Pop)"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Astro Candy - 0.5g",
+      "before": "—",
+      "after": "notes=NEW!! Sweetgrass Collab - A blend of some of our favorite rosin!                                                                    (Alien Marker,  Galactic Banana, Purple Push Pop)"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Astro Candy - 0.5g",
+      "before": "—",
+      "after": "notes=NEW!! Sweetgrass Collab- A blend of some of our favorite rosin!                                                                    (Alien Marker,  Galactic Banana, Purple Push Pop)"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Astro Candy - 0.5g",
+      "before": "—",
+      "after": "notes=NEW!! Sweetgrass Colla- A blend of some of our favorite rosin!                                                                    (Alien Marker,  Galactic Banana, Purple Push Pop)"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Astro Candy - 0.5g",
+      "before": "—",
+      "after": "notes=NEW!! Sweetgrass Coll- A blend of some of our favorite rosin!                                                                    (Alien Marker,  Galactic Banana, Purple Push Pop)"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Astro Candy - 0.5g",
+      "before": "—",
+      "after": "notes=NEW!! Sweetgrass Col- A blend of some of our favorite rosin!                                                                    (Alien Marker,  Galactic Banana, Purple Push Pop)"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Astro Candy - 0.5g",
+      "before": "—",
+      "after": "notes=NEW!! Sweetgrass Co- A blend of some of our favorite rosin!                                                                    (Alien Marker,  Galactic Banana, Purple Push Pop)"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Astro Candy - 0.5g",
+      "before": "—",
+      "after": "notes=NEW!! Sweetgrass C- A blend of some of our favorite rosin!                                                                    (Alien Marker,  Galactic Banana, Purple Push Pop)"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Astro Candy - 0.5g",
+      "before": "—",
+      "after": "notes=NEW!! Sweetgrass - A blend of some of our favorite rosin!                                                                    (Alien Marker,  Galactic Banana, Purple Push Pop)"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Astro Candy - 0.5g",
+      "before": "—",
+      "after": "notes=NEW!! Sweetgrass- A blend of some of our favorite rosin!                                                                    (Alien Marker,  Galactic Banana, Purple Push Pop)"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Astro Candy - 0.5g",
+      "before": "—",
+      "after": "notes=NEW!! Sweetgras- A blend of some of our favorite rosin!                                                                    (Alien Marker,  Galactic Banana, Purple Push Pop)"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Astro Candy - 0.5g",
+      "before": "—",
+      "after": "notes=NEW!! Sweetgra- A blend of some of our favorite rosin!                                                                    (Alien Marker,  Galactic Banana, Purple Push Pop)"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Astro Candy - 0.5g",
+      "before": "—",
+      "after": "notes=NEW!! Sweetgr- A blend of some of our favorite rosin!                                                                    (Alien Marker,  Galactic Banana, Purple Push Pop)"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Astro Candy - 0.5g",
+      "before": "—",
+      "after": "notes=NEW!! Sweetg- A blend of some of our favorite rosin!                                                                    (Alien Marker,  Galactic Banana, Purple Push Pop)"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Astro Candy - 0.5g",
+      "before": "—",
+      "after": "notes=NEW!! Sweet- A blend of some of our favorite rosin!                                                                    (Alien Marker,  Galactic Banana, Purple Push Pop)"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Astro Candy - 0.5g",
+      "before": "—",
+      "after": "notes=NEW!! Swee- A blend of some of our favorite rosin!                                                                    (Alien Marker,  Galactic Banana, Purple Push Pop)"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Astro Candy - 0.5g",
+      "before": "—",
+      "after": "notes=NEW!! Swe- A blend of some of our favorite rosin!                                                                    (Alien Marker,  Galactic Banana, Purple Push Pop)"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Astro Candy - 0.5g",
+      "before": "—",
+      "after": "notes=NEW!! Sw- A blend of some of our favorite rosin!                                                                    (Alien Marker,  Galactic Banana, Purple Push Pop)"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Astro Candy - 0.5g",
+      "before": "—",
+      "after": "notes=NEW!! S- A blend of some of our favorite rosin!                                                                    (Alien Marker,  Galactic Banana, Purple Push Pop)"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Astro Candy - 0.5g",
+      "before": "—",
+      "after": "notes=NEW!! - A blend of some of our favorite rosin!                                                                    (Alien Marker,  Galactic Banana, Purple Push Pop)"
+    },
+    {
+      "ts": "2026-05-08 16:13",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Vape Cart- Astro Candy - 0.5g",
+      "before": "—",
+      "after": "notes=NEW!! - A blend of some of our favorite rosin!                                                                    (Alien Marker,  Galactic Banana, Purple Push Pop)"
+    },
+    {
+      "ts": "2026-05-08 16:12",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Sticky Ricky x Grandi Candy Sugar 1G",
+      "before": "—",
+      "after": "notes=New!!"
+    },
+    {
+      "ts": "2026-05-08 16:12",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Sticky Ricky x Grandi Candy Sugar 1G",
+      "before": "—",
+      "after": "notes=New!!"
+    },
+    {
+      "ts": "2026-05-08 16:12",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Sticky Ricky x Grandi Candy Sugar 1G",
+      "before": "—",
+      "after": "notes=New!"
+    },
+    {
+      "ts": "2026-05-08 16:12",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Sticky Ricky x Grandi Candy Sugar 1G",
+      "before": "—",
+      "after": "notes=New"
+    },
+    {
+      "ts": "2026-05-08 16:12",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Sticky Ricky x Grandi Candy Sugar 1G",
+      "before": "—",
+      "after": "notes=New1"
+    },
+    {
+      "ts": "2026-05-08 16:12",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Sticky Ricky x Grandi Candy Sugar 1G",
+      "before": "—",
+      "after": "notes=New"
+    },
+    {
+      "ts": "2026-05-08 16:12",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Sticky Ricky x Grandi Candy Sugar 1G",
+      "before": "—",
+      "after": "notes=Ne"
+    },
+    {
+      "ts": "2026-05-08 16:12",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Sticky Ricky x Grandi Candy Sugar 1G",
+      "before": "—",
+      "after": "notes=N"
+    },
+    {
+      "ts": "2026-05-08 16:02",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Sticky Ricky x Grandi Candy Sugar 1G",
+      "before": "—",
+      "after": "terps=5.66"
+    },
+    {
+      "ts": "2026-05-08 16:02",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Sticky Ricky x Grandi Candy Sugar 1G",
+      "before": "—",
+      "after": "terps=5.66"
+    },
+    {
+      "ts": "2026-05-08 16:02",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Sticky Ricky x Grandi Candy Sugar 1G",
+      "before": "—",
+      "after": "thca=81.68"
+    },
+    {
+      "ts": "2026-05-08 16:02",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Sticky Ricky x Grandi Candy Sugar 1G",
+      "before": "—",
+      "after": "thca=81.68"
+    },
+    {
+      "ts": "2026-05-08 16:02",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Sticky Ricky x Grandi Candy Sugar 1G",
+      "before": "—",
+      "after": "tac=90.24"
+    },
+    {
+      "ts": "2026-05-08 16:02",
+      "user": "Dan",
+      "action": "Lab data updated",
+      "item": "offsite::Sticky Ricky x Grandi Candy Sugar 1G",
+      "before": "—",
+      "after": "tac=90.24"
+    }
+  ],
+  "pricing": {
+    "CCGL 8th": {
+      "rate": 17,
+      "unit": "3.5",
+      "per_gram": 4.857142857142857,
+      "needs_input": false
+    },
+    "Bulk CCGL": {
+      "rate": 2203.16,
+      "unit": "lb",
+      "per_gram": 4.857140337572091,
+      "needs_input": false
+    },
+    "Pre Rolls": {
+      "rate": 5,
+      "unit": "gram",
+      "per_gram": 5,
+      "needs_input": false
+    },
+    "Bulk Flower": {
+      "rate": 875,
+      "unit": "lb",
+      "per_gram": 1.9290463676608054,
+      "needs_input": false
+    },
+    "Bulk AL": {
+      "rate": 1052.98,
+      "unit": "lb",
+      "per_gram": 2.321425421965114,
+      "needs_input": false
+    },
+    "Bulk PR": {
+      "rate": 1939.11,
+      "unit": "lb",
+      "per_gram": 4.275009259422565,
+      "needs_input": false
+    },
+    "Alchemy": {
+      "rate": 0,
+      "unit": "gram",
+      "per_gram": 0
+    },
+    "Alchemy 3.5g": {
+      "rate": 12,
+      "unit": "3.5",
+      "per_gram": 3.4285714285714284,
+      "needs_input": false
+    },
+    "Alchemy 7g": {
+      "rate": 20,
+      "unit": "7",
+      "per_gram": 2.857142857142857,
+      "needs_input": false
+    },
+    "Alchemy 14g": {
+      "rate": 35,
+      "unit": "14",
+      "per_gram": 2.5,
+      "needs_input": false
+    },
+    "Alchemy 28g": {
+      "rate": 65,
+      "unit": "28",
+      "per_gram": 2.3214285714285716,
+      "needs_input": false
+    },
+    "Bulk Trim": {
+      "rate": 350,
+      "unit": "lb",
+      "per_gram": 0.7716185470643222,
+      "needs_input": false
+    },
+    "Bud Tender": {
+      "rate": 0,
+      "unit": "unit",
+      "per_gram": 0
+    },
+    "Harvest (cure)": {
+      "rate": 875,
+      "unit": "lb",
+      "per_gram": 1.9290463676608054,
+      "needs_input": false
+    },
+    "Bulk Ext Flower": {
+      "rate": 350,
+      "unit": "lb",
+      "per_gram": 0.7716185470643222,
+      "needs_input": false
+    },
+    "Bulk Ext Trim": {
+      "rate": 200,
+      "unit": "lb",
+      "per_gram": 0.4409248840367555,
+      "needs_input": false
+    },
+    "Extraction Frozen": {
+      "rate": 250,
+      "unit": "lb",
+      "per_gram": 0.5511561050459444,
+      "needs_input": false
+    },
+    "Cured Resin Vape": {
+      "rate": 20,
+      "unit": "unit",
+      "per_unit": 20,
+      "scope": "offsite",
+      "needs_input": false,
+      "case_size": 25
+    },
+    "Vape Cart 0.5g": {
+      "rate": 17.5,
+      "unit": "unit",
+      "per_unit": 17.5,
+      "scope": "offsite",
+      "case_size": 25
+    },
+    "Live Rosin": {
+      "rate": 32.5,
+      "unit": "unit",
+      "per_unit": 32.5,
+      "scope": "offsite",
+      "case_size": 15
+    },
+    "Live Sugar": {
+      "rate": 15,
+      "unit": "unit",
+      "per_unit": 15,
+      "scope": "offsite",
+      "case_size": 25
+    },
+    "Harvest Waste %": {
+      "rate": 30,
+      "unit": "% loss",
+      "scope": "rule",
+      "needs_input": false
+    },
+    "Wet → Dry Yield %": {
+      "rate": 20,
+      "unit": "% yield",
+      "scope": "rule"
+    }
+  },
+  "rooms": {
+    "Cure - Bulk": {
+      "purpose": "Bulk for sale",
+      "destination": "Bulk",
+      "sellable": "Yes",
+      "rule": "Bulk Flower",
+      "override": null
+    },
+    "Cure - Ext": {
+      "purpose": "For extraction",
+      "destination": "Extraction",
+      "sellable": "No",
+      "rule": "auto-ext",
+      "override": "auto-ext"
+    },
+    "Cure - Ext Freezer": {
+      "purpose": "Frozen extraction",
+      "destination": "Ext Frozen",
+      "sellable": "No",
+      "rule": "Extraction Frozen",
+      "override": "frozen"
+    },
+    "Cure - Holding Room #1": {
+      "purpose": "IGNORE",
+      "destination": "-",
+      "sellable": "No",
+      "rule": "-",
+      "override": null
+    },
+    "Cure - Package": {
+      "purpose": "Pre-finished goods",
+      "destination": "Pre-finished",
+      "sellable": "No",
+      "rule": "Bulk Flower",
+      "override": null
+    },
+    "Cure - WIP": {
+      "purpose": "Undecided - TBD",
+      "destination": "TBD",
+      "sellable": "TBD",
+      "rule": "Bulk Flower",
+      "override": null
+    },
+    "Trim Room": {
+      "purpose": "Trim processing",
+      "destination": "Trim",
+      "sellable": "No",
+      "rule": "Bulk Trim",
+      "override": null
+    },
+    "Vault - Ext": {
+      "purpose": "For extraction",
+      "destination": "Extraction",
+      "sellable": "No",
+      "rule": "auto-ext",
+      "override": "auto-ext"
+    },
+    "Vault - Ext Freezer": {
+      "purpose": "Frozen extraction",
+      "destination": "Ext Frozen",
+      "sellable": "No",
+      "rule": "Extraction Frozen",
+      "override": "frozen"
+    },
+    "Vault - Finished Goods": {
+      "purpose": "Ready to ship cases",
+      "destination": "Finished",
+      "sellable": "Yes",
+      "rule": "category default",
+      "override": null
+    },
+    "Vault - Package": {
+      "purpose": "Pre-finished goods",
+      "destination": "Pre-finished",
+      "sellable": "No",
+      "rule": "Bulk Flower",
+      "override": null
+    },
+    "Vault - PR": {
+      "purpose": "Ready to ship Pre-Rolls",
+      "destination": "Finished PR",
+      "sellable": "Yes",
+      "rule": "Pre Rolls",
+      "override": null
+    },
+    "Vault - WIP": {
+      "purpose": "Undecided - TBD",
+      "destination": "TBD",
+      "sellable": "TBD",
+      "rule": "Bulk Flower",
+      "override": null
+    }
+  },
+  "strain_data": {
+    "Alien Marker": {
+      "cross": "Alien Mints x Permanent Marker",
+      "genetics": "Hybrid",
+      "description": "Potent and flavorful, with waves of gassy fuel, exotic fruits, and grape candy, rounded out by delicate floral undertones"
+    },
+    "Applescotti": {
+      "cross": "Apples & Bananas x Biscotti",
+      "genetics": "Indica Hybrid",
+      "description": "Baked apple and orchard fruit over sweet dough and gentle spice, with cookie dough, vanilla, and almond biscotti notes, finishing with warm spice and subtle cedar"
+    },
+    "Beach Cooler": {
+      "cross": "Triple Mints x Face Mints",
+      "genetics": "Hybrid",
+      "description": "Fuel forward terpene profile and cake to cookie dough undertones"
+    },
+    "Blue Andeze": {
+      "cross": "Thin Mint GSC x DJ Short Blueberry",
+      "genetics": "Indica Hybrid",
+      "description": "A loud, unique candy-forward aroma with blueberry mint notes. The Thin Mint lineage adds a sweet dessert-like flavor, while the blueberry influence rounds out a perfectly balanced, crave-worthy profile"
+    },
+    "Candy Fumez x Grape Gas": {
+      "cross": "Candy Fumez x Grape Gas",
+      "genetics": "Hybrid",
+      "description": "Sharp menthol gas with earthy diesel, creamy funk, and a smooth, pungent finish"
+    },
+    "Cape White Shark": {
+      "cross": "Wedding Cake x E85 x Kush Mints",
+      "genetics": "Hybrid",
+      "description": "Earthy funk and gas with sweet vanilla tones"
+    },
+    "Double Runtz": {
+      "cross": "Forbbiden Runtz x Detroit Runtz",
+      "genetics": "Indica Hybrid",
+      "description": "Potent and flavorful, with waves of gassy fuel, exotic fruits, and grape candy, rounded out by delicate floral undertones"
+    },
+    "Galactic Banana": {
+      "cross": "Baby Yoda x (Banana Cream Cake x Jealousy)",
+      "genetics": "Hybrid",
+      "description": "Ripe banana cream with tropical citrus and earthy gas, delivering a balanced, relaxing high"
+    },
+    "Heir Heads": {
+      "cross": "Apples & Bananas x Runtz",
+      "genetics": "Hybrid",
+      "description": "Delivers bright aromas of sweet tropical candy layered with a touch of spicy herbs and gas"
+    },
+    "Lemon Cherry Sherbert": {
+      "cross": "Lemon Cherry Gelato x Sherbert",
+      "genetics": "Indica Hybrid",
+      "description": "Sweet cherry and tangy lemon flavors blend into a smooth, creamy sherbet finish. The aroma mirrors the taste, with bright citrus, cherry notes, and a subtle earthy undertone"
+    },
+    "Lemon Durbscotti": {
+      "cross": "Super Lemon Haze x Durban Biscotti",
+      "genetics": "Sativa Hybrid",
+      "description": "Sweet, tart citrus flavors meet with gassy/skunk back end"
+    },
+    "Lions Breath": {
+      "cross": "Lemon Cherry Tartz x Purple Milk",
+      "genetics": "Sativa Hybrid",
+      "description": "Pungent citronella tones with a bit of sweet berry candy"
+    },
+    "Purple Push Pop": {
+      "cross": "(Ice Cream Cake x Sunset Sherbert) x Jealousy",
+      "genetics": "Hybrid",
+      "description": "Exploding with classic Cookies terpenes, this strain layers creamy vanilla and soft citrus over a savory, kushy finish for a perfectly balanced, flavorful experience"
+    },
+    "Super Runtz": {
+      "cross": "Super Lemon Cherry Gelato x Runtz",
+      "genetics": "Hybrid",
+      "description": "Sweet, fruity, and citrus notes with hints of pear and floral undertones"
+    },
+    "Zowah": {
+      "cross": "Zkittles x Karma Sour Diesel",
+      "genetics": "Hybrid",
+      "description": "Bursting with a bold sour fruit aroma, followed by sweet, candy-like Zkittles terpenes on the finish"
+    },
+    "Hellcat": {
+      "cross": "Cheetah Piss x Sourdough #1",
+      "genetics": "Hybrid",
+      "description": ""
+    },
+    "Astro Candy ": {
+      "cross": "Purple Push Pop + Alien Marker + Galactic Banana",
+      "genetics": "Hybrid",
+      "description": ""
+    },
+    "Gelato 41 x Jealousy": {
+      "cross": "Gelato 41 x Jealousy",
+      "genetics": "Hybrid",
+      "description": ""
+    },
+    "Sticky Ricky X Grandi Candy": {
+      "cross": "Sticky Ricky X Grandi Candy",
+      "genetics": "Hybrid",
+      "description": ""
+    },
+    "Blue Andeze Bulk Trim": {
+      "cross": "",
+      "genetics": "",
+      "description": ""
+    },
+    "Mixed Bulk Trim": {
+      "cross": "",
+      "genetics": "",
+      "description": ""
+    }
+  },
+  "lab_data": {
+    "Galactic Banana - Smalls 14g||84": {
+      "tac": "29.48",
+      "thca": "26.63",
+      "terps": "3.42",
+      "notes": ""
+    },
+    "Cape White Shark 3.5g||87.5": {
+      "tac": "30.98",
+      "thca": "27.55",
+      "terps": "3.26",
+      "notes": ""
+    },
+    "Alien Marker 3.5g||87.5": {
+      "tac": "27.56",
+      "thca": "25.95",
+      "terps": "2.23",
+      "notes": ""
+    },
+    "Cape Cod Grow Labs - Pre Roll 1g - Cape White Shark||50": {
+      "tac": "32.07",
+      "thca": "29.06",
+      "terps": "3.30",
+      "notes": ""
+    },
+    "Lemon Cherry Sherbert 3.5g||87.5": {
+      "tac": "28.52",
+      "thca": "26.10",
+      "terps": "2.82",
+      "notes": ""
+    },
+    "Cape Cod Grow Lab - Pre Roll 1g - Lions Breath||50": {
+      "tac": "31.19",
+      "thca": "28.28",
+      "terps": "2.88",
+      "notes": ""
+    },
+    "Cape Cod Grow Lab - Pre Roll 1g - Blue Andeze||50": {
+      "tac": "28.22",
+      "thca": "25.50",
+      "terps": "2.06",
+      "notes": ""
+    },
+    "Cape Cod Grow Labs - Pre Roll 1g - Cape White Shark||14": {
+      "tac": "32.07",
+      "thca": "29.06",
+      "terps": "3.30",
+      "notes": ""
+    },
+    "Cape Cod Grow Lab - Pre Roll 1g - Blue Andeze||38": {
+      "tac": "28.22",
+      "thca": "25.50",
+      "terps": "2.06",
+      "notes": ""
+    },
+    "Zowah - Smalls 3.5g||185.5": {
+      "tac": "24.59",
+      "thca": "21.85",
+      "terps": "2.11",
+      "notes": ""
+    },
+    "offsite::Live Rosin - Alien Marker - 1g": {
+      "tac": "91.73",
+      "thca": "88.58",
+      "terps": "8.72",
+      "notes": "",
+      "subtype": "Live Rosin"
+    },
+    "offsite::Vape Cart- Alien Marker - 0.5": {
+      "tac": "80.75",
+      "thca": "78.38",
+      "terps": "8.36",
+      "notes": "Sweetgrass Collab",
+      "subtype": "Live Rosin Vape Cart"
+    },
+    "offsite::Vape Cart- Astro Candy - 0.5g": {
+      "tac": "79.67",
+      "thca": "78.07",
+      "terps": "9.45",
+      "notes": "NEW!! Sweetgrass Collab",
+      "subtype": "Live Rosin Vape Cart"
+    },
+    "offsite::Hellcat Cured Resin Disposable Vape 1G": {
+      "tac": "81.07",
+      "thca": "77.36",
+      "terps": "6.66",
+      "notes": "Harbor House Collab",
+      "subtype": "Cured Resin Disposable"
+    },
+    "offsite::Sticky Ricky x Grandi Candy Sugar 1G": {
+      "tac": "90.24",
+      "thca": "81.68",
+      "terps": "5.66",
+      "notes": "New!!",
+      "subtype": "Live Sugar"
+    },
+    "offsite::Live Rosin - Purple Push Pop- 1g": {
+      "tac": "83.17",
+      "thca": "79.27",
+      "terps": "8.30",
+      "notes": "",
+      "subtype": "Live Rosin"
+    },
+    "Blue Andeze - Smalls 14g||280": {
+      "tac": "23.58",
+      "thca": "21.32",
+      "terps": "2.08",
+      "notes": ""
+    },
+    "Purple Push Pop - Smalls 14g||280": {
+      "thca": "24.71",
+      "tac": "27.61",
+      "terps": "2.26",
+      "notes": ""
+    },
+    "Purple Push Pop - Smalls 14g||112": {
+      "thca": "24.71",
+      "tac": "27.61",
+      "terps": "2.26",
+      "notes": ""
+    },
+    "Blue Andeze - Smalls 7g||168": {
+      "tac": "23.58",
+      "thca": "21.32",
+      "terps": "2.08",
+      "notes": ""
+    },
+    "Blue Andeze - Smalls 7g||175": {
+      "tac": "23.58",
+      "thca": "21.32",
+      "terps": "2.08",
+      "notes": ""
+    },
+    "Purple Push Pop 3.5g||87.5": {
+      "tac": "28.34",
+      "thca": "25.59",
+      "terps": "3.176",
+      "notes": ""
+    }
+  },
+  "section_descriptions": {
+    "CCGL Extracts": "Extract Collabs With Our Favorite Labs",
+    "Alchemy Extracts": "Alchemy's signature concentrate line",
+    "Alchemy Packaged Flower": "DO YOU LIKE DISCOUNTS??!?  Unlock ($10 8ths) & ($32.50 14g) Alchemy products with the purchase of 5x cases of CCGL flower. Limit 3 Cases Per Sku.",
+    "CCGL Packaged Flower": "Hand Selected & Hand Trimmed Premium Flower in Heat Sealed, UV Blocking Glass Jars",
+    "CCGL Prerolls": "Full Bud - No Trim",
+    "CCGL Vapes": "Vape Collabs With Our Favorite Labs",
+    "Packaged Flower": "Hand Selected & Hand Trimmed Premium Flower in Heat Sealed, UV Blocking Glass Jars",
+    "Prerolls": "Full Bud - No Trim",
+    "Vapes": "Vape Collabs With Our Favorite Labs"
+  },
+  "product_images": {
+    "Alien Marker__CCGL Packaged Flower": "Assets/products/alien-marker-ccgl-packaged-flower.jpg",
+    "Cape White Shark__CCGL Packaged Flower": "Assets/products/cape-white-shark-ccgl-packaged-flower.jpg",
+    "Lemon Cherry Sherbert__CCGL Packaged Flower": "Assets/products/lemon-cherry-sherbert-ccgl-packaged-flower.jpg",
+    "Blue Andeze__CCGL Prerolls": "Assets/products/blue-andeze-ccgl-prerolls.jpg",
+    "Cape White Shark__CCGL Prerolls": "Assets/products/cape-white-shark-ccgl-prerolls.jpg",
+    "Lions Breath__CCGL Prerolls": "Assets/products/lions-breath-ccgl-prerolls.jpg",
+    "Alien Marker__CCGL Extracts": "Assets/products/alien-marker-ccgl-extracts.jpg",
+    "Purple Push Pop__CCGL Extracts": "Assets/products/purple-push-pop-ccgl-extracts.jpg",
+    "Alien Marker__CCGL Vapes": "Assets/products/alien-marker-ccgl-vapes.png",
+    "Astro Candy __CCGL Vapes": "Assets/products/astro-candy-ccgl-vapes.png",
+    "Hellcat__CCGL Vapes": "Assets/products/hellcat-ccgl-vapes.png",
+    "Sticky Ricky X Grandi Candy__Alchemy Extracts": "Assets/products/sticky-ricky-x-grandi-candy-alchemy-extracts.png",
+    "Galactic Banana__Alchemy Packaged Flower": "Assets/products/galactic-banana-alchemy-packaged-flower.jpg",
+    "Zowah__Alchemy Packaged Flower": "Assets/products/zowah-alchemy-packaged-flower.jpg",
+    "Blue Andeze__Alchemy Packaged Flower": "Assets/products/blue-andeze-alchemy-packaged-flower.jpg",
+    "Purple Push Pop__CCGL Packaged Flower": "Assets/products/purple-push-pop-ccgl-packaged-flower.jpg",
+    "Purple Push Pop__Alchemy Packaged Flower": "Assets/products/purple-push-pop-alchemy-packaged-flower.jpg",
+    "Lions Breath__CCGL Packaged Flower": "Assets/products/lions-breath-ccgl-packaged-flower.jpg"
+  },
+  "product_image_crops": {
+    "Cape White Shark__CCGL Packaged Flower": {
+      "x": 50,
+      "y": 69
+    },
+    "Alien Marker__CCGL Packaged Flower": {
+      "x": 50,
+      "y": 26
+    },
+    "Lemon Cherry Sherbert__CCGL Packaged Flower": {
+      "x": 50,
+      "y": 18
+    },
+    "Purple Push Pop__CCGL Packaged Flower": {
+      "x": 50,
+      "y": 27
+    },
+    "Lions Breath__CCGL Prerolls": {
+      "x": 50,
+      "y": 13
+    },
+    "Alien Marker__CCGL Extracts": {
+      "x": 50,
+      "y": 12
+    },
+    "Purple Push Pop__CCGL Extracts": {
+      "x": 46,
+      "y": 46
+    },
+    "Hellcat__CCGL Vapes": {
+      "x": 46,
+      "y": 0
+    },
+    "Blue Andeze__Alchemy Packaged Flower": {
+      "x": 50,
+      "y": 19
+    },
+    "Purple Push Pop__Alchemy Packaged Flower": {
+      "x": 50,
+      "y": 28
+    },
+    "Galactic Banana__Alchemy Packaged Flower": {
+      "x": 50,
+      "y": 60
+    }
+  },
+  "last_published_at": "2026-06-03T17:21:17.126Z"
+}
