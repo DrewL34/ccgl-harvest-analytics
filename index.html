@@ -1,55 +1,52 @@
-<header>
-  <h1>CCGL Harvest Analytics</h1>
-  <p>Post-Harvest KPI Dashboard</p>
-</header>
+<body>
 
-<main>
+<div class="header">
+    <h1>CCGL Harvest Analytics</h1>
+    <p>Strain Performance Dashboard</p>
+</div>
 
-  <section class="kpi-grid">
-    <div class="card">
-      <h3>Total Harvests</h3>
-      <p id="totalHarvests">0</p>
+<div class="container">
+
+    <div class="kpi-grid">
+
+        <div class="kpi">
+            <h2>0</h2>
+            <p>Total Harvests</p>
+        </div>
+
+        <div class="kpi">
+            <h2>0 lbs</h2>
+            <p>Total Yield</p>
+        </div>
+
+        <div class="kpi">
+            <h2>0%</h2>
+            <p>Average Recovery</p>
+        </div>
+
+        <div class="kpi">
+            <h2>0</h2>
+            <p>Active Strains</p>
+        </div>
+
     </div>
 
     <div class="card">
-      <h3>Total Dry Weight</h3>
-      <p id="totalDryWeight">0 lbs</p>
+        <h2>Harvest Data</h2>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Strain</th>
+                    <th>Harvest Date</th>
+                    <th>Wet Weight</th>
+                    <th>Dry Weight</th>
+                </tr>
+            </thead>
+            <tbody id="harvestTable"></tbody>
+        </table>
     </div>
 
-    <div class="card">
-      <h3>Average Yield %</h3>
-      <p id="avgYield">0%</p>
-    </div>
+</div>
 
-    <div class="card">
-      <h3>Average Waste %</h3>
-      <p id="avgWaste">0%</p>
-    </div>
-  </section>
-
-  <section class="card">
-    <input
-      type="text"
-      id="searchInput"
-      placeholder="Search strains..."
-    />
-  </section>
-
-  <section class="card">
-    <table id="harvestTable">
-      <thead>
-        <tr>
-          <th>Strain</th>
-          <th>Batch</th>
-          <th>Harvest Date</th>
-          <th>Dry Weight</th>
-          <th>Yield %</th>
-          <th>Waste %</th>
-        </tr>
-      </thead>
-      <tbody>
-      </tbody>
-    </table>
-  </section>
-
-</main>
+</body>
